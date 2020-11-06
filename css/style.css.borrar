@@ -1,0 +1,1032 @@
+/*-------------FUENTES----------*/
+@font-face {
+    font-family: opensansbold;
+    src: url(fuentes/OpenSansBold.ttf);
+}
+
+@font-face {
+    font-family: mulibold;
+    src: url(fuentes/MuliBold.ttf);
+}
+
+@font-face {
+    font-family: club;
+    src: url(fuentes/theclub.otf);
+}
+
+/*-------------------------------*/
+
+html {
+    scroll-behavior: smooth;
+}
+
+body a {
+    transition: 0.3s all;
+    -webkit-transition: 0.3s all;
+    -moz-transition: 0.3s all;
+    -o-transition: 0.3s all;
+    -ms-transition: 0.3s all;
+    cursor: pointer !important;
+}
+
+button,
+.btn {
+    cursor: pointer !important;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+label {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+/*-- header --*/
+
+/* CSS Document */
+
+header {
+    position: absolute;
+    z-index: 9;
+    width: 100%;
+}
+
+.toggle,
+[id^=drop] {
+    display: none;
+}
+
+/* Giving a background-color to the nav container. */
+
+nav {
+    margin: 0;
+    padding: 0;
+    font-family: opensansbold;
+}
+
+
+#logo a {
+    float: left;
+    display: initial;
+    margin: 0;
+    color: #fff;
+}
+
+#logo a span {
+    color: #fff;
+}
+
+.logo h1 a {
+    font-size: 30px;
+    text-transform: capitalize;
+    display: initial;
+    margin: 0;
+    letter-spacing: 0.02em;
+    line-height: 1.3em;
+    color: #fff;
+    font-weight: 600;
+}
+
+nav.mnu {
+    background: rgba(239, 89, 140, 0.80);
+    padding: 1em 1em;
+    -webkit-box-shadow: 0px 4px 15px -4px rgba(0, 0, 0, 0.41);
+    -moz-box-shadow: 0px 4px 15px -4px rgba(0, 0, 0, 0.41);
+    box-shadow: 0px 4px 15px -4px rgba(0, 0, 0, 0.41);
+}
+
+/* Since we'll have the "ul li" "float:left"
+ * we need to add a clear after the container. */
+
+nav:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Removing padding, margin and "list-style" from the "ul",
+ * and adding "position:reltive" */
+
+nav ul {
+    float: right;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+}
+
+/* Positioning the navigation items inline */
+
+nav ul li {
+    margin: 0px;
+    display: inline-block;
+    float: left;
+}
+
+/* Styling the links */
+
+nav a {
+    color: #ccc;
+    text-transform: capitalize;
+    font-weight: 300;
+    font-size: 0.8em;
+}
+
+
+nav ul li ul li:hover {
+    background: #f8f9fa;
+}
+
+/* Background color change on Hover */
+
+nav img:hover {
+    border-bottom: solid white 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu li.active a {
+    color: white;
+}
+
+/* Hide Dropdowns by Default
+ * and giving it a position of absolute */
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    /* has to be the same number as the "line-height" of "nav a" */
+    top: 30px;
+    background: #fff;
+    padding: 10px;
+}
+
+/* Display Dropdowns on Hover */
+
+nav ul li:hover > ul {
+    display: inherit;
+}
+
+/* Fisrt Tier Dropdown */
+
+nav ul ul li {
+    width: 170px;
+    float: none;
+    display: list-item;
+    position: relative;
+}
+
+nav ul ul li a {
+    padding: 5px 10px;
+    display: block;
+}
+
+/* Second, Third and more Tiers	
+ * We move the 2nd and 3rd etc tier dropdowns to the left
+ * by the amount of the width of the first tier.
+*/
+
+nav ul ul ul li {
+    position: relative;
+    top: -60px;
+    /* has to be the same number as the "width" of "nav ul ul li" */
+    left: 170px;
+}
+
+
+/* Change ' +' in order to change the Dropdown symbol */
+
+li > a:only-child:after {
+    content: '';
+}
+
+
+
+/* Media Queries
+--------------------------------------------- */
+
+@media all and (max-width: 768px) {
+
+    #logo {
+        display: block;
+        padding: 0;
+        width: 100%;
+        text-align: center;
+        float: none;
+    }
+
+    nav {
+        margin: 0;
+    }
+
+    /* Hide the navigation menu by default */
+    /* Also hide the  */
+    .toggle + a,
+    .menu {
+        display: none;
+    }
+
+    /* Stylinf the toggle lable */
+
+    .toggle {
+        display: block;
+        padding: 4px 15px;
+        font-size: 20px;
+        text-decoration: none;
+        border: none;
+        float: right;
+        background-color: #ffffff;
+        color: #333;
+        cursor: pointer;
+    }
+
+    .menu .toggle {
+        float: none;
+        text-align: center;
+        margin: auto;
+        width: 80%;
+        padding: 5px;
+        font-weight: normal;
+        font-size: 16px;
+        letter-spacing: 1px;
+    }
+
+    .toggle:hover {
+        color: #333;
+        background-color: #fff;
+    }
+
+    /* Display Dropdown when clicked on Parent Lable */
+    [id^=drop]:checked + ul {
+        display: block;
+        background: rgba(124, 61, 98, 0.85);
+        padding: 15px 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    /* Change menu item's width to 100% */
+    nav ul li {
+        display: block;
+        width: 100%;
+        padding: 5px 0;
+    }
+
+    nav ul ul .toggle,
+    nav ul ul a {
+        padding: 0 40px;
+    }
+
+    nav ul ul ul a {
+        padding: 0 80px;
+    }
+
+    nav a:hover,
+    nav ul ul ul a {
+        background-color: transparent;
+    }
+
+    nav ul li ul li .toggle,
+    nav ul ul a,
+    nav ul ul ul a {
+        padding: 14px 20px;
+        color: #FFF;
+        font-size: 17px;
+    }
+
+
+    nav ul li ul li .toggle,
+    nav ul ul a {
+        background-color: #212121;
+    }
+
+    /* Hide Dropdowns by Default */
+    nav ul ul {
+        float: none;
+        position: static;
+        color: #ffffff;
+        /* has to be the same number as the "line-height" of "nav a" */
+    }
+
+    /* Hide menus on hover */
+    nav ul ul li:hover > ul,
+    nav ul li:hover > ul {
+        display: none;
+    }
+
+    /* Fisrt Tier Dropdown */
+    nav ul ul li {
+        display: block;
+        width: 100%;
+        padding: 0;
+    }
+
+    nav ul ul ul li {
+        position: static;
+        /* has to be the same number as the "width" of "nav ul ul li" */
+    }
+
+    nav ul ul li a {
+        color: #fff;
+        font-size: 0.85em;
+    }
+}
+
+@media all and (max-width: 330px) {
+
+    nav ul li {
+        display: block;
+        width: 94%;
+    }
+}
+
+/* header */
+
+/*-- //Responsive design --*/
+/*----------------------------------------------*/
+.jumbotron {
+    padding-top: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 400px;
+}
+
+
+.footer {
+    background-image: url(../imagenes/footer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 450px;
+    padding-bottom: 150px;
+}
+
+.copy {
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    z-index: 9999;
+    width: 100%;
+}
+
+
+.copy .texto {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    background-color: rgba(22, 22, 22, 0.8);
+    padding: 15px 0px 5px;
+    width: 100%;
+}
+
+/*------------PASAJEROS------------*/
+
+.pasajero{
+    padding: 25px;
+}
+
+.pasajero .blockquote-footer{
+    color: #25bdcc;
+    font-size: 15px;
+    margin-left: 35px;
+}
+/*------------FORMULARIO CONTACTO------------*/
+.formulario{
+    height: 550px;
+    padding: 25px;
+}
+.formulario .form-control{
+    color: white;
+    margin: 15px 0px ;
+}
+.formulario input{
+    border: 0;
+    background: inherit;
+    background-color: transparent;
+    border-bottom: solid white 1px;
+    transition: 0.2s;
+}
+.formulario input::placeholder{
+    color: white;
+}
+
+.formulario input:focus{
+    background: inherit;
+    background-color: transparent;
+    border: solid 1px white;
+    box-shadow: none;
+    transition: 0.2s;
+    color: white;
+}
+
+#btnEnviar{
+    width: 60%;
+    background: transparent;
+    border: solid 1px white;
+    color: white;
+    transition: 0.2s;
+    margin: auto; 
+    display: block;
+    padding: 5px;
+    
+}
+#btnEnviar:hover{
+    width: 60%;
+    background: white;
+    border: solid 1px white;
+    color:  #25bdcc;
+    transition: 0.2s;
+}
+/*-----------FONT PROP--------*/
+.sub {
+    text-decoration-line: underline;
+}
+h5.mb-0{
+    color:darkmagenta;
+}
+
+/*-----------FONT SIZE--------*/
+.fs-15 {
+    font-size: 15px;
+}
+.fs-20 {
+    font-size: 20px;
+}
+.fs-35 {
+    font-size: 35px;
+}
+
+.fs-40 {
+    margin: 0px;
+}
+
+.fs-50 {
+    font-size: 50px;
+}
+
+.fs-70 {
+    font-size: 70px;
+}
+
+/*-----------------TARJETAS--------------*/
+.card2 {
+    transition: 0.3s;
+    margin-top: 15px;
+    border:none !important;
+    margin: 5px;
+}
+.card2 p{
+    color: black;
+}
+.card2 p:hover{
+    text-decoration: none;
+}
+
+.card2:hover {
+    cursor: pointer;
+    -webkit-transform:scale(1.08);transform:scale(1.08);
+    transition: 0.3s;
+    z-index: 10;
+}
+
+/*----------------LETTER SPACING-----------------------*/
+.lte-2 {
+    letter-spacing: 0.3vw;
+}
+
+.lte-3 {
+    letter-spacing: 1.3vw;
+}
+
+/*---------------------FUENTES-------------------*/
+.font-sansbold {
+    font-family: "opensansbold";
+}
+
+.font-mulibold {
+    font-family: "mulibold";
+}
+
+.font-club {
+    font-family: "club";
+}
+
+/*-------------------FONDOS COLORES------------------*/
+.bg-rosa {
+    background-color: rgba(239, 89, 127, 0.80);
+}
+.btn-pink{
+    color: #fff !important;
+    background-color: #EF597F !important;
+    border-color: #EF597F !important;
+}
+
+.bg-blanco {
+    background-color: rgba(225, 225, 225, 0.90);
+}
+
+.bg-gradient{
+    background-image: linear-gradient(to right top, #3bc6cf, #2cbaf1, #85a5f9, #cf86d9, #f56c98);
+}
+/*-------------------FONDOS SECCIONES------------------*/
+.bg-home {
+    background-image: url(../imagenes/home.jpg);
+}
+
+.bg-nuestrosdestinos {
+    background-image: url(../imagenes/nuestrosdestinos.jpg);
+}
+
+.bg-ofertas{
+    background-image: url(../imagenes/ofertas.jpg);
+}
+.bg-quienesSomos{
+    background-image: url(../imagenes/quienesSomos.jpg);
+}
+
+.bg-nuestrosPasajeros{
+    background-image: url(../imagenes/nuestrosPasajeros.jpg);
+}
+.bg-contacto{
+    background-image:url(../imagenes/contactenos.jpg);
+}
+.bg-condiciones{
+    background-image:url(../imagenes/condicionesEdit.jpg);
+}
+.bg-cuotas{
+    background-image:url(../imagenes/cuotas.jpg);
+}
+/*------------------IMAGENES----------*/
+.box{
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+    overflow: hidden;
+    margin: auto;
+}
+.box img{
+    height: 100%;
+    width: auto;
+    
+}
+@supports(object-fit: cover){
+    .box img{
+      height: 100%;
+      object-fit: cover;
+      object-position: center center;
+    }
+}
+/*------------------COLORES FUENTE----------*/
+.white {
+    color: white;
+}
+
+.rosa-int {
+    color: #e82768;
+    transition: 0.3s;
+}
+
+.carmesi {
+    color: #B31546;
+}
+
+.aqua{
+    color: #25bdcc;
+}
+/*-------------PADDING-----------*/
+.pd-80 {
+    padding: 80px;
+}
+
+.pd-100 {
+    padding: 10px 0px 0px 0px;
+}
+
+.pd-150 {
+    padding: 150px 0px 0px 0px;
+    ;
+}
+
+.pd-t-5 {
+    padding-top: 5px;
+}
+
+.pd-t-15 {
+    padding-top: 15px;
+}
+.pd-t-30 {
+    padding-top: 30px;
+}
+
+
+.pd-t-60 {
+    padding-top: 60px;
+}
+
+.pd-t-100 {
+    padding-top: 100px;
+}
+
+.pd-b-50 {
+    padding-bottom: 50px;
+}
+.pd-b-25 {
+    padding-bottom: 25px;
+}
+
+/*-------------MARGIN-----------*/
+.mg-btm-15{
+    margin-bottom: 15px;
+}
+.mg-btm-20 {
+    padding-bottom: 30px;
+}
+
+.mg-btm-0 {
+    margin-bottom: 0px;
+}
+
+.mg-t-0 {
+    margin-top: -5px;
+}
+.mg-t-15 {
+    margin-top: 15px;
+}
+.mg-t-35 {
+    margin-top: 35px;
+}
+
+
+/*------------TITULO HR----------*/
+.hr {
+    margin-left: -90px;
+    height: 3px;
+    background-color: #B31546;
+}
+
+/*------------ESTILOS ICONOS HEADER----------*/
+.icon-h {
+    background-color: rgba(0, 0, 0, 0.60);
+    transition: 0.3s;
+    padding: 0.4vw;
+    border-radius: 1vw;
+    width: 2.5vw;
+    height: 2.5vw;
+    max-height: 45px;
+    max-width: 45px;
+}
+
+.card {
+    max-width: 18 rem;
+    max-height: 18 rem;
+}
+
+
+/*--------------LINKS -------------------*/
+.no-td {
+    text-decoration: none;
+}
+
+/*-------------------HOVER----------------*/
+.hover-oscurecer:hover {
+    color: #A6296A;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.icon-h:hover {
+    background-color: rgba(58, 208, 212, .60);
+    transition: 0.3s;
+}
+
+/*-----------------------------RESPONSIVE----------------------------------*/
+@media screen(max-width: 360px) {
+    .fs-35 {
+        font-size: 18px;
+    }
+
+    .fs-70 {
+        font-size: 40px;
+    }
+
+    .fs-50 {
+        font-size: 30vw;
+    }
+}
+
+@media(max-width:600px) {
+    .fs-90 {
+        margin-bottom: 30px;
+    }
+
+    .fs-80 {
+        margin-bottom: 30px;
+    }
+
+    .jumbo-config {
+        height: 70vw;
+    }
+
+    .fs-35 {
+        font-size: 28px;
+    }
+
+    .fs-70 {
+        font-size: 60px;
+    }
+}
+
+@media(min-width:576px) {
+    .fs-50 {
+        font-size: 5vw;
+    }
+}
+
+@media(max-width:575px) {
+
+    .fs-50 {
+        font-size: 15vw;
+    }
+
+    .fs-80 {
+        font-size: 13vw;
+    }
+    #contacto-title{
+        font-size: 35px;
+    }
+    #condiciones-title{
+        font-size: 30px;
+    }
+}
+
+@media(min-width:500px) {
+    .fs-90 {
+        font-size: 6vw;
+    }
+
+    .fs-80 {
+        font-size: 8vw;
+    }
+
+    .fs-40 {
+        font-size: 2.95vw;
+
+    }
+
+    .lte-3 {
+        letter-spacing: 1vw;
+    }
+   
+}
+
+@media(min-width:750px){
+    
+}
+
+@media (min-width:1000px) {
+    .fs-90 {
+        font-size: 6vw;
+    }
+    .fs-80 {
+        font-size: 6vw;
+    }
+
+    .fs-40 {
+        font-size: 2vw;
+    }
+
+    .fs-50 {
+        font-size: 3.5vw;
+    }
+
+}
+
+@media(min-width:1200px) {
+    .fs-90 {
+        font-size: 75px;
+    }
+
+    .fs-80 {
+        font-size: 69px;
+    }
+
+    .fs-40 {
+        font-size: 26px;
+    }
+
+    .fs-50 {
+        font-size: 50px;
+    }
+
+    .lte-3 {
+        letter-spacing: 15px;
+    }
+    .formulario{
+        height: 400px;
+    }
+}
+.container1 {
+  width: 100%;
+  padding-right: 20px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#prmk-carousel-container{
+  margin: 0;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+    text-align: center;
+}
+.row{
+    margin-right: 0px !important;
+}
+.col-md-3{
+    padding-right: 0px !important;
+}
+
+
+html {
+    scroll-behavior: smooth;
+    font-size: 1rem !important;
+}
+
+body {
+    font-size: 1rem !important;
+    line-height: 1.5 !important;
+}
+/*@media (min-width:360px) and (max-width:600px){
+    #cuotas{
+        font-size:25px!important;
+        width:330px!important;
+    }
+}*/
+
+
+
+    /*@media (max-width:320px){
+        #cuotas{
+            font-size:21px!important;
+            width:290px!important;
+        }
+    @media (max-width:402px){
+        #cuotas{
+            font-size:21px!important;
+            width:400px!important;
+        }
+    @media (min-width:600px){
+        #cuotas{
+            width:3800px!important;
+            margin-top:-10px;
+            font-size:29px;
+            /*color:rgb(0, 255, 217);
+        }
+    }*/
+    @media (max-width:398px){
+        #cuotas{
+            font-size:21px!important;
+            width:290px!important;
+        }
+    }
+    @media (min-width:399px) and (max-width:402px){
+        #cuotas{
+            font-size:21px!important;
+            width:400px!important;
+        }
+    }
+    @media (min-width:600px){
+        #cuotas{
+            width:380px!important;
+            margin-top:-10px;
+            font-size:29px;
+            color:rgb(0, 255, 217);
+        }
+    }
+    #cuotas{
+        width:380px;
+        margin-top:-10px;
+        font-size:29px;
+        color:rgb(0, 255, 217);
+    }
+
+
+
+@media (min-width: 576px) {
+  .container1 {
+    max-width: 540px !important;
+  }
+   .offset-sm-1{    
+    margin-left: 0px !important;
+  }
+}
+
+@media (min-width: 576px){
+    .card-deck {
+        -ms-flex-flow: row wrap;
+        flex-flow: row wrap;
+        margin-right: 0px !important;
+        margin-left: -15px;
+    }
+}
+
+@media (min-width:576px) and (max-width:646px){
+    .card-desk{
+        margin-right:0px;
+    }
+       .offset-sm-1{    
+    margin-left: 0px !important;
+  }
+}
+@media (max-width:767px) {
+    .col-md-1{
+        padding-left:30px !important;
+    }
+    .icon{
+        margin-right:9px!important;
+    }
+}
+
+@media (min-width: 775px) and (max-width:1000px){
+/*    #tit1{
+        padding-right:100px;
+    }*/
+}
+@media (min-width: 768px) and (max-width:999px){
+    /*.container1 {
+        max-width: 1000px !important;
+        padding-right: 0px;
+        width: 700px;
+    }
+    #buscador{
+        padding-left:0px;
+    }
+    #contacto{
+        max-width:39%!important;
+        flex: 0 0 100%!important;
+    }
+    #siguenos{
+        max-width: 30%!important;
+    }
+    .col-md-6{
+        flex: 0 0 0%!important;
+        max-width: 100%!important;
+    }*/
+}
+@media (min-width: 992px) {
+  .container1 {
+    max-width: 960px !important;
+  }
+    #buscador{
+        padding-left:0px;
+    }
+}
+
+@media (min-width: 992px and max-width:1136px){
+    .offset-sm-1{
+        margin-left:0px !important;
+    }
+    #text-buscador{
+        padding-left: 30px;
+        padding-right: 10px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px){
+    #a_navbar{
+        margin-left:365px !important;
+    }
+}
+
+/*@media (min-width: 1000px) and (max-width:1199px){
+    .container1 {
+        max-width: 1000px !important;
+        padding-right: 0px;
+        width: 700px;
+    }
+}*/
+
+@media (min-width: 1000px) {
+  .container1 {
+    max-width: 1140px !important;
+  }
+    .mt-1{
+        margin-left: 0px !important;
+    }
+     #a_navbar{
+        margin-left:0px !important;
+    }
+}
