@@ -56,9 +56,6 @@ label {
     margin: 0;
 }
 
-img {
-    width: 100%;
-}
 
 /*-- header --*/
 
@@ -507,6 +504,7 @@ h5.mb-0{
     font-size: 70px;
 }
 
+
 /*-----------------TARJETAS--------------*/
 .card2 {
     transition: 0.3s;
@@ -548,6 +546,11 @@ h5.mb-0{
 
 .font-club {
     font-family: "club";
+}
+
+.textop1 {
+    color: black;
+    font-size: 12px;
 }
 
 /*-------------------FONDOS COLORES------------------*/
@@ -596,6 +599,10 @@ h5.mb-0{
     background-image:url(../imagenes/cuotas.jpg);
 }
 /*------------------IMAGENES----------*/
+img {
+    width: 100%;
+}
+
 .box{
     height: 250px;
     width: 250px;
@@ -641,9 +648,12 @@ h5.mb-0{
     padding: 10px 0px 0px 0px;
 }
 
+.pd-130 {
+    padding: 130px 0px 0px 0px;
+}
+
 .pd-150 {
     padding: 150px 0px 0px 0px;
-    ;
 }
 
 .pd-t-5 {

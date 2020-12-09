@@ -44,7 +44,7 @@
                             <h2>ENVIANOS UN MENSAJE!</h2>
                         </div>
                     </div>
-                    <form action="https://formspree.io/lacatrinaviajes@gmail.com" method="POST">
+                    <form action="https://formspree.io/f/xknpbpve" method="POST">
                         <div class="form-row">
                             <div class="col-md-12 col-xl-6">
                                 <div class="form-group white">

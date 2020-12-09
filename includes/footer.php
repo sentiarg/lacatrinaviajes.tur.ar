@@ -14,7 +14,7 @@
                     <div class="row">
                         <div class="col-md-6 col-xs-12 col-sm-12 white" id="contacto">
                             <h5 class=" font-sansbold">CONTACTO</h5>
-                            <p><img src="imagenes/iconos/correo.png" alt="" style="margin-right:10px!important;width: 24px; height: 24px;">lacatrinaviajes@gmail.com</p>
+                            <p><img src="imagenes/iconos/correo.png" alt="" style="margin-right:10px!important;width: 24px; height: 24px;">contacto@lacatrinaviajes.tur.ar</p>
                             <p><img src="imagenes/iconos/telefono.png" style="margin-right:10px!important; width: 24px;" alt="">011 4784-7956</p>
                             <p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;" alt=""> +54 9 11 5701-2140</p>
                             <p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;padding-bottom:10px;" alt=""> +54 9 11 3409-0355</p>
