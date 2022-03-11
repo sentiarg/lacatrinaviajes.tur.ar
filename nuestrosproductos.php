@@ -199,6 +199,19 @@
 							<h5 class=" pd-t-5">$460</h5>
 						</div>
 					</div>
+				</div>
+
+				<div class="row justify-content-center">
+				<div class="card" style="width: 20rem;">
+					<img class="card-img-top" src="imagenes/productos/vasos.jpg">
+					<div class="row text-center rosa-int">
+						<div class="col-md-12  font-sansbold">
+							<div class="p1"> VASOS LOVE </div>
+							<div class="textop1"> Trago Largo. Ideal para fernet, o adorno  
+									Pintados a mano - Diseños exclusivos </div>
+							<h5 class=" pd-t-5">$350</h5>
+						</div>
+					</div>
 				</div>				
 			</div>
 		</div>
@@ -235,17 +248,6 @@
 
 
 </html>
-<!-- <div class="card" style="width: 20rem;">
-					<img class="card-img-top" src="imagenes/productos/tapabocasdisney.jpg">
-					<div class="row text-center rosa-int">
-						<div class="col-md-12  font-sansbold">
-							<div class="p1"> TAPABOCAS DISNEY  </div>
-							<div class="textop1"> Llevá la magia con vos con estos hermosos tapa bocas !! Exclusivos -Lavables- Hechos a mano </div>
-							<h5 class=" pd-t-5">$200</h5>
-						</div>
-					</div>
-				</div>	
-				-->
 				
 				<!--
 				<div class="row justify-content-center h-100" style="width: 20rem; " >

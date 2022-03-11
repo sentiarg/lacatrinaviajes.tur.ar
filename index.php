@@ -83,11 +83,11 @@
 
                             <div class="col-sm-6 col-xl-6">
 
-                                <h2 class="font-sansbold text-center rosa-int ">Desde $8500</h2>
+                                <h2 class="font-sansbold text-center rosa-int ">Desde $14500</h2>
 
                             </div>
 
-                            <div class=" text-center col-sm-6 col-xl-6">
+                            <div class=" text-center col-sm-6 col-xl-6">termas_octubre_web4
 
                                 <h5>
 
@@ -237,7 +237,7 @@
 
                                         <span class="rosa-int">
 
-                                            <strong>$8500</strong>
+                                            <strong>$14500</strong>
 
                                         </span>
 
@@ -295,19 +295,19 @@
 
                                                 <div class="card-body">
 
-                                                    Paquete 4 días / 3 noches <br>-Enero y Febrero 2021 <br> <br>
+                                                    Paquete 4 días / 3 noches <br>- Noviembre y Diciembre 2021 <br> <br>
 
 
-						    - Bus Semicama de Retiro o Liniers - Flechabus <br>
+						    - Bus Semicama de Dellepiane - Flechabus <br>
 			    
                                                     - 3 Noches de Alojamiento Hotel 3 estrellas, Régimen desayuno, habitación standard <br>
 
-                                                    - Asistencia al viajero. Cortesía de La Catrina Viajes <br>
+                                                    - Asistencia al viajero con seguro de covid. Cortesía de La Catrina Viajes <br>
 
 						    - Obsequio sorpresa para el viaje <br> <br>
 
              				            
-                                                    Precios por persona en base doble, sujetos a disponibilidad y confirmación al momento de la reserva. Válidos para Enero y Febrero 2021. 
+                                                    Precios por persona en base doble, sujetos a disponibilidad y confirmación al momento de la reserva. Válidos para Abril y Mayo 2021. No Válidos para feriados y fin de semana largos.
 						    
                                                 </div>
 
@@ -383,7 +383,7 @@
 
                                     <div class="col-xl-6 col-md-12 font-sansbold">
 
-                                        <h3>$10500</h3>
+                                        <h3>$17500</h3>
 
                                     </div>
 
@@ -493,7 +493,7 @@
 
                                                             <span class="rosa-int">
 
-                                                                <strong>$10500</strong>
+                                                                <strong>$17500</strong>
 
                                                             </span>
 
@@ -553,15 +553,16 @@
 
                                                                     <div class="card-body">
 
-                                                                        Precios para salidas de Enero y Febrero 2021 <br>
+                                                                        Precios para Marzo y Abril 2022 <br> <br>
 
-                                                                         **7 días / 5 noches** <br>
 
-                                                                        - Bus semicama ida y vuelta con coordinador permanente <br>
+                                                                         **5 días / 4 noches** <br>
 
-                                                                        - 5 noches de alojamiento en el Hotel Clima 3 (Hotel céntrico) con pensión completa (las bebidas se pagan en destino)<br>
+                                                                        - Bus Cama ida y vuelta <br>
 
-                                                                        - Asistencia al viajero. Cortesía de La Catrina Viajes <br>
+                                                                        - 4 noches de alojamiento en el Hotel Sol y Luna 3 estrellas con pensión completa (las bebidas se pagan en destino)<br>
+
+                                                                        - Asistencia al viajero con seguro de covid. Cortesía de La Catrina Viajes <br>
 
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
 
@@ -629,7 +630,7 @@
 
                                     <div class="col-xl-6 col-md-12  font-sansbold">
 
-                                        <h3>$8500</h3>
+                                        <h3>$19500</h3>
 
                                     </div>
 
@@ -739,7 +740,7 @@
 
                                                             <span class="rosa-int">
 
-                                                                <strong>$8500</strong>
+                                                                <strong>$19500</strong>
 
                                                             </span>
 
@@ -794,19 +795,19 @@
 
                                                                     <div class="card-body">
 
-									Paquete 3 días / 2 noches <br>- Enero y Febrero 2021 <br> <br>
+									Paquete 4 días / 3 noches <br>- Marzo y Abril <br> <br>
 
-                                                                        - Bus semicama desde Liniers o Retiro <br>
+                                                                        - Bus semicama desde Dellepiane - Retiro - Liniers <br>
 
-                                                                        - 2 noches de alojamiento en hotel 5 estrellas (Hotel céntrico) con desayuno <br>
+                                                                        - 3 noches de alojamiento en hotel 4 estrellas (Hotel céntrico con piscina climatizada) con desayuno <br>
 
-                                                                        - Asistencia al viajero- Cortesía de La Catrina Viajes <br>
+                                                                        - Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
 
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
 
 
 
-                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. 
+                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. No Válidos para feriados y fin de semana largos. 
 
                                                                     </div>
 
@@ -868,7 +869,7 @@
 
                                     <div class="col-xl-6 col-md-12  font-sansbold">
 
-                                        <h3>$15300</h3>
+                                        <h3>$36450</h3>
 
                                     </div>
 
@@ -978,7 +979,7 @@
 
                                                             <span class="rosa-int">
 
-                                                                <strong>$15300</strong>
+                                                                <strong>$36450</strong>
 
                                                             </span>
 
@@ -1038,22 +1039,20 @@
 
                                                                         8 días / 5 noches <br>
 
-                                                                        Salidas de Mayo y Junio <br> <br>
+                                                                        Salidas de Enero y Febrero <br> <br>
 
 
 
                                                                         Incluye <br>
 
-                                                                        - Bus semicama Charter con snack abordo en viaje de ida (Charter Propio) <br>
-
                                                                         - 5 noches de Alojamiento Hotel 3 estrellas con desayuno <br>
 
-                                                                        - Asistencia al viajero- Cortesía de La Catrina Viajes <br>
+                                                                        - Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
 
 									- Obsequio sorpresa para utilizar en el viaje <br> <br>
 
 
-                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva
+                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. No Válidos para feriados y fin de semana largos.
 
                                                                     </div>
 
@@ -1125,7 +1124,7 @@
 
                                     <div class="col-xl-6 col-md-12  font-sansbold">
 
-                                        <h3>$9500</h3>
+                                        <h3>$19500</h3>
 
                                     </div>
 
@@ -1247,7 +1246,7 @@
 
                                                             <span class="rosa-int">
 
-                                                                <strong>$9500</strong>
+                                                                <strong>$19500</strong>
 
                                                             </span>
 
@@ -1322,17 +1321,19 @@
 
                                                                     <div class="card-body">
 
-                                                                        Salida de Escapada de Mayo y Junio <br> <br>
+                                                                        Salida de Escapada de Marzo y Abril <br> <br>
 
 
 
                                                                         Incluye <br>
 
-                                                                        - Bus semicama ida y vuelta <br>
+                                                                        - Micro semicama con salida desde Dellepiane, Retiro o Liniers <br>
 
-                                                                        - 04 noches hotel 3 estrellas media pensión <br>						
+									- 05 noches hotel 3 estrellas El Mirador con desayuno, almuerzo y cena (sin bebidas) <br>						
 																
-									- Asistencia al viajero, Cortesía de la Catrina Viajes
+									- Asistencia al viajero con seguro covid, Cortesía de la Catrina Viajes <br>
+ 									
+									- Excursión a Paseo Costero y Dique San Roque <br> 
 
                                                                         - Obsequio sorpresa para el viaje <br> <br>
 
@@ -1399,7 +1400,7 @@
 
                                     <div class="col-xl-6 col-md-12  font-sansbold">
 
-                                        <h3>$13000</h3>
+                                        <h3>$30500</h3>
 
                                     </div>
 
@@ -1509,7 +1510,7 @@
 
                                                             <span class="rosa-int">
 
-                                                                <strong>$13000</strong>
+                                                                <strong>$30500</strong>
 
                                                             </span>
 
@@ -1569,19 +1570,17 @@
                                                                     <div class="card-body">
 
                                                                         
-									Salidas de Enero y Febrero 2021 <br>
+									Salidas de Marzo y Abril 2022 <br>
 
                                                                         4 días / 3 noches <br> <br>
 
-                                                                        - Traslados desde y hacia el aeropuerto <br>
-									- Asistencia al viajero cortesia de La Catrina Viajes
-
+                                                                        - Vuelos con Jet Smart salida de Aeroparque c/carry on de 8 kilos de cabina <br>
+									- Traslados desde y hacia el aeropuerto <br>
                                                                         - 3 noches de alojamiento con desayuno <br>
-									- Asistencia al Viajero cortesía de La Catrina Viajes
-
+									- Asistencia al Viajero con seguro de Covid. Cortesía de La Catrina Viajes
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
 
-                                                                        Precios por persona en base doble sujetos a espacio al momento de la reserva
+                                                                        Precios por persona en base doble sujetos a espacio al momento de la reserva. No v�lido para feriados
 
                                                                     </div>
 
@@ -1643,7 +1642,7 @@
 
                                     <div class="col-xl-6 col-md-12  font-sansbold">
 
-                                        <h3>U$1800</h3>
+                                        <h3>U$2200</h3>
 
                                     </div>
 
@@ -1753,7 +1752,7 @@
 
                                                             <span class="rosa-int">
 
-                                                                <strong>U$1800</strong>
+                                                                <strong>U$2200</strong>
 
                                                             </span>
 
@@ -1811,7 +1810,7 @@ Disney Magic<br> Disney donde los fantasia se hace realidad.
 
                                                                     <div class="card-body">
 
-                                                                        Disney - Temporada 2021 - Super promo <br>
+                                                                        Disney - Temporada 2022- Super promo <br>
 
                                                                         8 días / 7 noches <br> <br>
 
@@ -1828,7 +1827,7 @@ Disney Magic<br> Disney donde los fantasia se hace realidad.
 									- Obsequio sorpresa para el viaje <br> <br>
 
                                                                         Precios por persona en base doble, sujetos a espacio al momento de la reserva. Consultar por otras fechas. 
-									No incluye vuelos, Para viajes en Enero y Febrero 2021
+									No incluye vuelos, Para viajes en Agosto y Septiembre 2022
 
                                                                     </div>
 

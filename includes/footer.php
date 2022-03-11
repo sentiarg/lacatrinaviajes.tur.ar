@@ -15,9 +15,8 @@
                         <div class="col-md-6 col-xs-12 col-sm-12 white" id="contacto">
                             <h5 class=" font-sansbold">CONTACTO</h5>
                             <p><img src="imagenes/iconos/correo.png" alt="" style="margin-right:10px!important;width: 24px; height: 24px;">info@lacatrinaviajes.tur.ar</p>
-                            <p><img src="imagenes/iconos/telefono.png" style="margin-right:10px!important; width: 24px;" alt="">011 4784-7956</p>
-                            <p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;" alt=""> +54 9 11 5701-2140</p>
-                            <p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;padding-bottom:10px;" alt=""> +54 9 11 3409-0355</p>
+                            <p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;" alt=""> +54 9 11 5701-2140 <br>(Solo mensajes)</p>
+                            <p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;padding-bottom:10px;" alt=""> +54 9 11 3409-0355 <br> (Solo mensajes)</p>
                             <a style="color:white;" href="condiciones.php"><p style="margin-top:-10px;"><img class="icon" src="imagenes/iconos/condiciones2EditGrisTamaño.png" style="width:24px;padding-bottom:10px;margin-right:10px;" alt="">Condiciones generales</p></a>
                             <a style="color:rgb(0, 255, 217);" href="cuotas.php"><p id="cuotas"><img class="icon" src="imagenes/iconos/coin2.png" style="width:30px;padding-bottom:5px;margin-right:10px;" alt="">¡También tenemos cuotas!</p></a>
                         </div>
@@ -41,6 +40,6 @@
 </section>
 <div class="copy white">
     <div class="texto">
-        <p>Copyright &#169; 2019. Todos los derechos reservados | Hecho con &hearts; por LaCatrinaViajes.</p>
+        <p>Copyright &#169; 2019. Todos los derechos reservados | Hecho con &hearts; por LaCatrinaViajes. Diseño <a target='_blank' href="https://senti.com.ar">senti.com.ar</a></p>
     </div>
 </div>

@@ -84,9 +84,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/argentina_web3.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/argentina_web5.png" alt="Card image cap">
 
-                            <p>Argentina - Propuestas Verano 2021</p>
+                            <p>Ventajas de comprar en Catrina Viajes</p>
 
                         </div>
 
@@ -96,9 +96,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/pinamar_retiro_web.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/merlo_febrero_web5.png" alt="Card image cap">
 
-                            <p>Retiro Holistico en Pinamar-Evento Exclusivo</p>
+                            <p>Merlo - Escapadas por Argentina</p>
 
                         </div>
 
@@ -108,9 +108,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/caribe_web_hotsale.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/mar_del_plata_web4.png" alt="Card image cap">
 
-                            <p>Caribe - Preventa Temporada 2021</p>
+                            <p>Argentina - Costa Argentina Temporada 2022</p>
 
                         </div>
 
@@ -128,9 +128,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/hot_sale_web.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/norte_argentino_2022.png" alt="Card image cap">
 
-                            <p>Preventa 2021 con importantes descuentos</p>
+                            <p>Colores del Norte - Temporada 2022</p>
 
                         </div>
 
@@ -140,9 +140,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/argentina_web2.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/San_Rafael_Web2.png" alt="Card image cap">
 
-                            <p>Argentina - Septiembre a Noviembre 2020 </p>
+                            <p>Mendoza - Temporada 2022</p>
 
                         </div>
 
@@ -152,9 +152,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/dubai_web.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/Termas_copahue_web6.png" alt="Card image cap">
 
-                            <p>Dubai - Salida Mayo 2021</p>
+                            <p>Termas - Copahue y Caviahue 2022</p>
 
                         </div>
 
