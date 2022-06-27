@@ -21,7 +21,6 @@ $img = ($_SERVER['PHP_SELF'] == "/nuestrosproductos.php") ? "logoproductosnow2.p
             <li class="mr-lg-4 mr-3"><a href="quienesSomos.php" class="scroll">QUIENES SOMOS</a></li>
             <li class="mr-lg-4 mr-3"><a href="nuestrosPasajeros.php" class="scroll">NUESTROS PASAJEROS</a></li>
             <li class="mr-lg-4 mr-3" id="buscador"><a href="buscador.php" class="scroll">RESERVAS ONLINE</a>
-			 <li class="mr-lg-4 mr-3"><a href="nuestrosproductos.php" class="scroll">NUESTROS PRODUCTOS</a></li>
             <li class="mr-lg-4 mr-3"><a href="contacto.php" class="scroll">CONTACTENOS</a>
             </li>
         </ul>

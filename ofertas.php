@@ -96,9 +96,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/merlo_febrero_web5.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/federacion_junio.png" alt="Card image cap">
 
-                            <p>Merlo - Escapadas por Argentina</p>
+                            <p>Federacion - Escapadas por Argentina</p>
 
                         </div>
 
@@ -108,9 +108,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/mar_del_plata_web4.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/Salta_web.png" alt="Card image cap">
 
-                            <p>Argentina - Costa Argentina Temporada 2022</p>
+                            <p>Salta - Temporada 2022</p>
 
                         </div>
 
@@ -140,9 +140,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/San_Rafael_Web2.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/merlo_junio.png" alt="Card image cap">
 
-                            <p>Mendoza - Temporada 2022</p>
+                            <p>Merlo - Fin de semana Junio</p>
 
                         </div>
 
@@ -152,9 +152,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/Termas_copahue_web6.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/san_rafael_vacaciones.png" alt="Card image cap">
 
-                            <p>Termas - Copahue y Caviahue 2022</p>
+                            <p>San Rafael - Vacaciones Invierno 2022</p>
 
                         </div>
 

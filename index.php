@@ -83,11 +83,11 @@
 
                             <div class="col-sm-6 col-xl-6">
 
-                                <h2 class="font-sansbold text-center rosa-int ">Desde $14500</h2>
+                                <h2 class="font-sansbold text-center rosa-int ">Desde $16500</h2>
 
                             </div>
 
-                            <div class=" text-center col-sm-6 col-xl-6">termas_octubre_web4
+                            <div class=" text-center col-sm-6 col-xl-6">
 
                                 <h5>
 
@@ -237,7 +237,7 @@
 
                                         <span class="rosa-int">
 
-                                            <strong>$14500</strong>
+                                            <strong>$16500</strong>
 
                                         </span>
 
@@ -295,7 +295,7 @@
 
                                                 <div class="card-body">
 
-                                                    Paquete 4 días / 3 noches <br>- Noviembre y Diciembre 2021 <br> <br>
+                                                    Paquete 4 días / 3 noches <br>- Agosto y Septiembre 2022 <br> <br>
 
 
 						    - Bus Semicama de Dellepiane - Flechabus <br>
@@ -307,7 +307,7 @@
 						    - Obsequio sorpresa para el viaje <br> <br>
 
              				            
-                                                    Precios por persona en base doble, sujetos a disponibilidad y confirmación al momento de la reserva. Válidos para Abril y Mayo 2021. No Válidos para feriados y fin de semana largos.
+                                                    Precios por persona en base doble, sujetos a disponibilidad y confirmación al momento de la reserva. Válidos para Agosto y Septiembre 2022. No Válidos para feriados y fin de semana largos.
 						    
                                                 </div>
 
@@ -383,7 +383,7 @@
 
                                     <div class="col-xl-6 col-md-12 font-sansbold">
 
-                                        <h3>$17500</h3>
+                                        <h3>$18500</h3>
 
                                     </div>
 
@@ -493,7 +493,7 @@
 
                                                             <span class="rosa-int">
 
-                                                                <strong>$17500</strong>
+                                                                <strong>$18500</strong>
 
                                                             </span>
 
@@ -553,7 +553,7 @@
 
                                                                     <div class="card-body">
 
-                                                                        Precios para Marzo y Abril 2022 <br> <br>
+                                                                        Precios para Agosto y Septiembre 2022 <br> <br>
 
 
                                                                          **5 días / 4 noches** <br>
@@ -795,11 +795,11 @@
 
                                                                     <div class="card-body">
 
-									Paquete 4 días / 3 noches <br>- Marzo y Abril <br> <br>
+									Paquete 3 días / 2 noches <br>- Agosto y Septiembre <br> <br>
 
                                                                         - Bus semicama desde Dellepiane - Retiro - Liniers <br>
 
-                                                                        - 3 noches de alojamiento en hotel 4 estrellas (Hotel céntrico con piscina climatizada) con desayuno <br>
+                                                                        - 2 noches de alojamiento en hotel 4 estrellas (Hotel céntrico con piscina climatizada) con desayuno <br>
 
                                                                         - Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
 
@@ -1037,15 +1037,15 @@
 
                                                                     <div class="card-body">
 
-                                                                        8 días / 5 noches <br>
+                                                                        7 días / 4 noches <br>
 
-                                                                        Salidas de Enero y Febrero <br> <br>
+                                                                        Salidas de Agosto y Septiembre <br> <br>
 
 
 
                                                                         Incluye <br>
 
-                                                                        - 5 noches de Alojamiento Hotel 3 estrellas con desayuno <br>
+                                                                        - 4 noches de Alojamiento Hotel 3 estrellas con desayuno <br>
 
                                                                         - Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
 
@@ -1321,7 +1321,7 @@
 
                                                                     <div class="card-body">
 
-                                                                        Salida de Escapada de Marzo y Abril <br> <br>
+                                                                        Salida de Escapada de Agosto y Septiembre <br> <br>
 
 
 
@@ -1329,7 +1329,7 @@
 
                                                                         - Micro semicama con salida desde Dellepiane, Retiro o Liniers <br>
 
-									- 05 noches hotel 3 estrellas El Mirador con desayuno, almuerzo y cena (sin bebidas) <br>						
+									- 04 noches hotel 3 estrellas El Mirador con desayuno, almuerzo y cena (sin bebidas) <br>						
 																
 									- Asistencia al viajero con seguro covid, Cortesía de la Catrina Viajes <br>
  									
@@ -1400,7 +1400,7 @@
 
                                     <div class="col-xl-6 col-md-12  font-sansbold">
 
-                                        <h3>$30500</h3>
+                                        <h3>$43500</h3>
 
                                     </div>
 
@@ -1510,7 +1510,7 @@
 
                                                             <span class="rosa-int">
 
-                                                                <strong>$30500</strong>
+                                                                <strong>$43500</strong>
 
                                                             </span>
 
@@ -1570,7 +1570,7 @@
                                                                     <div class="card-body">
 
                                                                         
-									Salidas de Marzo y Abril 2022 <br>
+									Salidas de Agosto y Septiembre <br>
 
                                                                         4 días / 3 noches <br> <br>
 
@@ -1580,7 +1580,7 @@
 									- Asistencia al Viajero con seguro de Covid. Cortesía de La Catrina Viajes
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
 
-                                                                        Precios por persona en base doble sujetos a espacio al momento de la reserva. No v�lido para feriados
+                                                                        Precios por persona en base doble sujetos a espacio al momento de la reserva. No Válidos para feriados
 
                                                                     </div>
 
@@ -1678,7 +1678,7 @@
 
                                                                     <div class="cajaImg-modal">
 
-                                                                        <img class="d-block w-100" src="imagenes/paisajes/disney4.JPG" alt="First slide">
+                                                                        <img class="d-block w-100" src="imagenes/paisajes/disney4.jpg" alt="First slide">
 
                                                                     </div>
 
@@ -1686,13 +1686,13 @@
 
                                                                 <div class="carousel-item">
 
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/disney3.JPG" alt="Second slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/disney3.jpg" alt="Second slide">
 
                                                                 </div>
 
                                                                 <div class="carousel-item">
 
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/disney2.JPG" alt="Third slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/disney2.jpg" alt="Third slide">
 
                                                                 </div>
 
