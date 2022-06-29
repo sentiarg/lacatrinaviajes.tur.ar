@@ -62,7 +62,7 @@ label {
 /* CSS Document */
 
 header {
-    position: relative;
+    position: absolute;
     z-index: 9;
     width: 100%;
 }
