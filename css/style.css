@@ -62,7 +62,7 @@ label {
 /* CSS Document */
 
 header {
-    position: absolute;
+    position: relative;
     z-index: 9;
     width: 100%;
 }
@@ -112,8 +112,8 @@ nav {
     color: white;
     position: relative;
     top: 20px;
-    left: -30px;	
-	
+    left: -30px;
+
 }
 
 
@@ -197,7 +197,7 @@ nav ul ul {
 
 /* Display Dropdowns on Hover */
 
-nav ul li:hover > ul {
+nav ul li:hover>ul {
     display: inherit;
 }
 
@@ -230,7 +230,7 @@ nav ul ul ul li {
 
 /* Change ' +' in order to change the Dropdown symbol */
 
-li > a:only-child:after {
+li>a:only-child:after {
     content: '';
 }
 
@@ -255,7 +255,7 @@ li > a:only-child:after {
 
     /* Hide the navigation menu by default */
     /* Also hide the  */
-    .toggle + a,
+    .toggle+a,
     .menu {
         display: none;
     }
@@ -291,7 +291,7 @@ li > a:only-child:after {
     }
 
     /* Display Dropdown when clicked on Parent Lable */
-    [id^=drop]:checked + ul {
+    [id^=drop]:checked+ul {
         display: block;
         background: rgba(124, 61, 98, 0.85);
         padding: 15px 0;
@@ -343,8 +343,8 @@ li > a:only-child:after {
     }
 
     /* Hide menus on hover */
-    nav ul ul li:hover > ul,
-    nav ul li:hover > ul {
+    nav ul ul li:hover>ul,
+    nav ul li:hover>ul {
         display: none;
     }
 
@@ -417,36 +417,40 @@ li > a:only-child:after {
 
 /*------------PASAJEROS------------*/
 
-.pasajero{
+.pasajero {
     padding: 25px;
 }
 
-.pasajero .blockquote-footer{
+.pasajero .blockquote-footer {
     color: #25bdcc;
     font-size: 15px;
     margin-left: 35px;
 }
+
 /*------------FORMULARIO CONTACTO------------*/
-.formulario{
+.formulario {
     height: 550px;
     padding: 25px;
 }
-.formulario .form-control{
+
+.formulario .form-control {
     color: white;
-    margin: 15px 0px ;
+    margin: 15px 0px;
 }
-.formulario input{
+
+.formulario input {
     border: 0;
     background: inherit;
     background-color: transparent;
     border-bottom: solid white 1px;
     transition: 0.2s;
 }
-.formulario input::placeholder{
+
+.formulario input::placeholder {
     color: white;
 }
 
-.formulario input:focus{
+.formulario input:focus {
     background: inherit;
     background-color: transparent;
     border: solid 1px white;
@@ -455,39 +459,44 @@ li > a:only-child:after {
     color: white;
 }
 
-#btnEnviar{
+#btnEnviar {
     width: 60%;
     background: transparent;
     border: solid 1px white;
     color: white;
     transition: 0.2s;
-    margin: auto; 
+    margin: auto;
     display: block;
     padding: 5px;
-    
+
 }
-#btnEnviar:hover{
+
+#btnEnviar:hover {
     width: 60%;
     background: white;
     border: solid 1px white;
-    color:  #25bdcc;
+    color: #25bdcc;
     transition: 0.2s;
 }
+
 /*-----------FONT PROP--------*/
 .sub {
     text-decoration-line: underline;
 }
-h5.mb-0{
-    color:darkmagenta;
+
+h5.mb-0 {
+    color: darkmagenta;
 }
 
 /*-----------FONT SIZE--------*/
 .fs-15 {
     font-size: 15px;
 }
+
 .fs-20 {
     font-size: 20px;
 }
+
 .fs-35 {
     font-size: 35px;
 }
@@ -509,19 +518,22 @@ h5.mb-0{
 .card2 {
     transition: 0.3s;
     margin-top: 15px;
-    border:none !important;
+    border: none !important;
     margin: 5px;
 }
-.card2 p{
+
+.card2 p {
     color: black;
 }
-.card2 p:hover{
+
+.card2 p:hover {
     text-decoration: none;
 }
 
 .card2:hover {
     cursor: pointer;
-    -webkit-transform:scale(1.08);transform:scale(1.08);
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
     transition: 0.3s;
     z-index: 10;
 }
@@ -557,7 +569,8 @@ h5.mb-0{
 .bg-rosa {
     background-color: rgba(239, 89, 127, 0.80);
 }
-.btn-pink{
+
+.btn-pink {
     color: #fff !important;
     background-color: #EF597F !important;
     border-color: #EF597F !important;
@@ -567,9 +580,10 @@ h5.mb-0{
     background-color: rgba(225, 225, 225, 0.90);
 }
 
-.bg-gradient{
+.bg-gradient {
     background-image: linear-gradient(to right top, #3bc6cf, #2cbaf1, #85a5f9, #cf86d9, #f56c98);
 }
+
 /*-------------------FONDOS SECCIONES------------------*/
 .bg-home {
     background-image: url(../imagenes/home.jpg);
@@ -579,49 +593,57 @@ h5.mb-0{
     background-image: url(../imagenes/nuestrosdestinos.jpg);
 }
 
-.bg-ofertas{
+.bg-ofertas {
     background-image: url(../imagenes/ofertas.jpg);
 }
-.bg-quienesSomos{
+
+.bg-quienesSomos {
     background-image: url(../imagenes/quienesSomos.jpg);
 }
 
-.bg-nuestrosPasajeros{
+.bg-nuestrosPasajeros {
     background-image: url(../imagenes/nuestrosPasajeros.jpg);
 }
-.bg-contacto{
-    background-image:url(../imagenes/contactenos.jpg);
+
+.bg-contacto {
+    background-image: url(../imagenes/contactenos.jpg);
 }
-.bg-condiciones{
-    background-image:url(../imagenes/condicionesEdit.jpg);
+
+.bg-condiciones {
+    background-image: url(../imagenes/condicionesEdit.jpg);
 }
-.bg-cuotas{
-    background-image:url(../imagenes/cuotas.jpg);
+
+.bg-cuotas {
+    background-image: url(../imagenes/cuotas.jpg);
 }
+
 /*------------------IMAGENES----------*/
 img {
     width: 100%;
 }
 
-.box{
+.box {
     height: 250px;
     width: 250px;
     border-radius: 150px;
     overflow: hidden;
     margin: auto;
 }
-.box img{
+
+.box img {
     height: 100%;
     width: auto;
-    
+
 }
-@supports(object-fit: cover){
-    .box img{
-      height: 100%;
-      object-fit: cover;
-      object-position: center center;
+
+@supports(object-fit: cover) {
+    .box img {
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
     }
 }
+
 /*------------------COLORES FUENTE----------*/
 .white {
     color: white;
@@ -636,9 +658,10 @@ img {
     color: #B31546;
 }
 
-.aqua{
+.aqua {
     color: #25bdcc;
 }
+
 /*-------------PADDING-----------*/
 .pd-80 {
     padding: 80px;
@@ -663,6 +686,7 @@ img {
 .pd-t-15 {
     padding-top: 15px;
 }
+
 .pd-t-30 {
     padding-top: 30px;
 }
@@ -679,14 +703,16 @@ img {
 .pd-b-50 {
     padding-bottom: 50px;
 }
+
 .pd-b-25 {
     padding-bottom: 25px;
 }
 
 /*-------------MARGIN-----------*/
-.mg-btm-15{
+.mg-btm-15 {
     margin-bottom: 15px;
 }
+
 .mg-btm-20 {
     padding-bottom: 30px;
 }
@@ -698,9 +724,11 @@ img {
 .mg-t-0 {
     margin-top: -5px;
 }
+
 .mg-t-15 {
     margin-top: 15px;
 }
+
 .mg-t-35 {
     margin-top: 35px;
 }
@@ -749,7 +777,7 @@ img {
 }
 
 /*-----------------------------RESPONSIVE----------------------------------*/
-@media screen(max-width: 360px) {
+@media(max-width: 360px) {
     .fs-35 {
         font-size: 18px;
     }
@@ -800,10 +828,12 @@ img {
     .fs-80 {
         font-size: 13vw;
     }
-    #contacto-title{
+
+    #contacto-title {
         font-size: 35px;
     }
-    #condiciones-title{
+
+    #condiciones-title {
         font-size: 30px;
     }
 }
@@ -825,17 +855,16 @@ img {
     .lte-3 {
         letter-spacing: 1vw;
     }
-   
+
 }
 
-@media(min-width:750px){
-    
-}
+@media(min-width:750px) {}
 
 @media (min-width:1000px) {
     .fs-90 {
         font-size: 6vw;
     }
+
     .fs-80 {
         font-size: 6vw;
     }
@@ -870,29 +899,33 @@ img {
     .lte-3 {
         letter-spacing: 15px;
     }
-    .formulario{
+
+    .formulario {
         height: 400px;
     }
 }
+
 .container1 {
-  width: 100%;
-  padding-right: 20px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
-#prmk-carousel-container{
-  margin: 0;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+#prmk-carousel-container {
+    margin: 0;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
     text-align: center;
 }
-.row{
+
+.row {
     margin-right: 0px !important;
 }
-.col-md-3{
+
+.col-md-3 {
     padding-right: 0px !important;
 }
 
@@ -906,6 +939,7 @@ body {
     font-size: 1rem !important;
     line-height: 1.5 !important;
 }
+
 /*@media (min-width:360px) and (max-width:600px){
     #cuotas{
         font-size:25px!important;
@@ -915,7 +949,7 @@ body {
 
 
 
-    /*@media (max-width:320px){
+/*@media (max-width:320px){
         #cuotas{
             font-size:21px!important;
             width:290px!important;
@@ -933,45 +967,49 @@ body {
             /*color:rgb(0, 255, 217);
         }
     }*/
-    @media (max-width:398px){
-        #cuotas{
-            font-size:21px!important;
-            width:290px!important;
-        }
+@media (max-width:398px) {
+    #cuotas {
+        font-size: 21px !important;
+        width: 290px !important;
     }
-    @media (min-width:399px) and (max-width:402px){
-        #cuotas{
-            font-size:21px!important;
-            width:400px!important;
-        }
+}
+
+@media (min-width:399px) and (max-width:402px) {
+    #cuotas {
+        font-size: 21px !important;
+        width: 400px !important;
     }
-    @media (min-width:600px){
-        #cuotas{
-            width:380px!important;
-            margin-top:-10px;
-            font-size:29px;
-            color:rgb(0, 255, 217);
-        }
+}
+
+@media (min-width:600px) {
+    #cuotas {
+        width: 380px !important;
+        margin-top: -10px;
+        font-size: 29px;
+        color: rgb(0, 255, 217);
     }
-    #cuotas{
-        width:380px;
-        margin-top:-10px;
-        font-size:29px;
-        color:rgb(0, 255, 217);
-    }
+}
+
+#cuotas {
+    width: 380px;
+    margin-top: -10px;
+    font-size: 29px;
+    color: rgb(0, 255, 217);
+}
 
 
 
 @media (min-width: 576px) {
-  .container1 {
-    max-width: 540px !important;
-  }
-   .offset-sm-1{    
-    margin-left: 0px !important;
-  }
+    .container1 {
+        max-width: 540px !important;
+    }
+
+    .offset-sm-1 {
+        margin-left: 0px !important;
+    }
 }
 
-@media (min-width: 576px){
+@media (min-width: 576px) {
     .card-deck {
         -ms-flex-flow: row wrap;
         flex-flow: row wrap;
@@ -980,29 +1018,33 @@ body {
     }
 }
 
-@media (min-width:576px) and (max-width:646px){
-    .card-desk{
-        margin-right:0px;
+@media (min-width:576px) and (max-width:646px) {
+    .card-desk {
+        margin-right: 0px;
     }
-       .offset-sm-1{    
-    margin-left: 0px !important;
-  }
-}
-@media (max-width:767px) {
-    .col-md-1{
-        padding-left:30px !important;
-    }
-    .icon{
-        margin-right:9px!important;
+
+    .offset-sm-1 {
+        margin-left: 0px !important;
     }
 }
 
-@media (min-width: 775px) and (max-width:1000px){
-/*    #tit1{
+@media (max-width:767px) {
+    .col-md-1 {
+        padding-left: 30px !important;
+    }
+
+    .icon {
+        margin-right: 9px !important;
+    }
+}
+
+@media (min-width: 775px) and (max-width:1000px) {
+    /*    #tit1{
         padding-right:100px;
     }*/
 }
-@media (min-width: 768px) and (max-width:999px){
+
+@media (min-width: 768px) and (max-width:999px) {
     /*.container1 {
         max-width: 1000px !important;
         padding-right: 0px;
@@ -1023,47 +1065,44 @@ body {
         max-width: 100%!important;
     }*/
 }
+
 @media (min-width: 992px) {
-  .container1 {
-    max-width: 960px !important;
-  }
-    #buscador{
-        padding-left:0px;
+    .container1 {
+        max-width: 960px !important;
+    }
+
+    #buscador {
+        padding-left: 0px;
     }
 }
 
-@media (min-width: 992px and max-width:1136px){
-    .offset-sm-1{
-        margin-left:0px !important;
+@media (min-width: 992px) and (max-width:1136px) {
+    .offset-sm-1 {
+        margin-left: 0px !important;
     }
-    #text-buscador{
+
+    #text-buscador {
         padding-left: 30px;
         padding-right: 10px;
     }
 }
 
-@media (min-width:992px) and (max-width:1199px){
-    #a_navbar{
-        margin-left:365px !important;
+@media (min-width:992px) and (max-width:1199px) {
+    #a_navbar {
+        margin-left: 365px !important;
     }
 }
 
-/*@media (min-width: 1000px) and (max-width:1199px){
-    .container1 {
-        max-width: 1000px !important;
-        padding-right: 0px;
-        width: 700px;
-    }
-}*/
-
 @media (min-width: 1000px) {
-  .container1 {
-    max-width: 1140px !important;
-  }
-    .mt-1{
+    .container1 {
+        max-width: 1140px !important;
+    }
+
+    .mt-1 {
         margin-left: 0px !important;
     }
-     #a_navbar{
-        margin-left:0px !important;
+
+    #a_navbar {
+        margin-left: 0px !important;
     }
 }
