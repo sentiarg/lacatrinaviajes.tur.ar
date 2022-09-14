@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="">
+
 <head>
     <?php include_once "includes/head.php"; ?>
 </head>
@@ -7,7 +8,7 @@
 <body>
     <header>
         <?php
-            include_once "includes/navbar.php";
+        include_once "includes/navbar.php";
         ?>
     </header>
     <main>
@@ -15,7 +16,7 @@
             <div class="container pd-t-100">
                 <div class="row align-items-center">
                     <div class="col-xs-12 offset-sm-1 col-sm-12 col-md-12 col-xl-9 font-sansbold white ">
-                        <h1 id="contacto-title"class="fs-80 sub">CONTACTENOS</h1>
+                        <h1 id="contacto-title" class="fs-80 sub">CONTACTENOS</h1>
                     </div>
                 </div>
                 <div class="row botones-h">
@@ -43,7 +44,7 @@
                             </div>
                             <div class="col-md-12 col-xl-6">
                                 <div class="form-group white">
-                                    <input required type="email" name= "Mail" class="form-control " id="mail" placeholder="Mail (requerido)">
+                                    <input required type="email" name="Mail" class="form-control " id="mail" placeholder="Mail (requerido)">
                                 </div>
                             </div>
                         </div>
@@ -62,7 +63,7 @@
                         <div class="form-row">
                             <div class="col-12">
                                 <div class="form-group white">
-                                    <label  style="margin-left:10px;" for="mensaje">Mensaje (requerido)</label>
+                                    <label style="margin-left:10px;" for="mensaje">Mensaje (requerido)</label>
                                     <input required style="height: 50px" type="text" name="Mensaje" class="form-control " id="mensaje">
                                 </div>
                             </div>
@@ -96,12 +97,12 @@
                         </div>
                         <div class="col-md-4 col-xs-12">
                             <p><img style="width: 24px;" src="imagenes/iconos/correo2.png" alt=""> info@lacatrinaviajes.tur.ar</p>
-                            <p>Consultas:</p><p> <img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> 
-+54 9 11 5846-8890
-(Solo mensajes)</p>
-                            <p>Emergencias:</p><p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt="">
-+54 9 11 5701-2140</p><p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt="">
-+54 9 11 3409-0355</p>
+                            <p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> Consultas:</p>
+                            <p>+54 9 11 5846-8890</p>
+                            <p>(Solo mensajes)</p>
+                            <p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> Emergencias:</p>
+                            <p>+54 9 11 5701-2140</p>
+                            <p>+54 9 11 3409-0355</p>
                         </div>
                     </div>
                     <div class="row">
@@ -116,7 +117,7 @@
     </main>
     <footer>
         <?php
-            include_once "includes/footer.php";
+        include_once "includes/footer.php";
         ?>
     </footer>
 </body>
