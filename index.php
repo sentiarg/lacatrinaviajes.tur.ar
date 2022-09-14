@@ -155,7 +155,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-6 col-md-12 font-sansbold">
-                                        <h3>$18500</h3>
+                                        <h3>$21500</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#merlomodal">
@@ -210,7 +210,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$18500</strong>
+                                                                <strong>$21500</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -238,10 +238,10 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Precios para Agosto y Septiembre 2022 <br> <br>
-                                                                        **5 días / 4 noches** <br>
-                                                                        - Bus Cama ida y vuelta <br>
-                                                                        - 4 noches de alojamiento en el Hotel Sol y Luna 3 estrellas con pensión completa (las bebidas se pagan en destino)<br>
+                                                                        Precios para Septiembre 2022 <br> <br>
+                                                                        **4 días / 3 noches** <br>
+                                                                        - Bus Semicama ida y vuelta - Salida 10 y 21 de Septiembre<br>
+                                                                        - 3 noches de alojamiento en el Hotel Sol y Luna 3 estrellas con pensión completa (las bebidas se pagan en destino)<br>
                                                                         - Asistencia al viajero con seguro de covid. Cortesía de La Catrina Viajes <br>
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
                                                                         Precios por persona en base doble sujeto a espacio al momento de la reserva. Consultar por otras fechas

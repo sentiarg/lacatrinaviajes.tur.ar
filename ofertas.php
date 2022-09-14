@@ -72,9 +72,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/federacion_junio.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/Gesell_2022.png" alt="Card image cap">
 
-                            <p>Federacion - Escapadas por Argentina</p>
+                            <p>Argentina - Adelantos de temporada Verano</p>
 
                         </div>
 
@@ -86,7 +86,7 @@
 
                             <img class="card-img-top" src="imagenes/ofertas/Salta_web.png" alt="Card image cap">
 
-                            <p>Salta - Temporada 2022</p>
+                            <p>Norte Argentino - Temporada 2022</p>
 
                         </div>
 
@@ -104,9 +104,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/norte_argentino_2022.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/Villa_pehuenia_022.png" alt="Card image cap">
 
-                            <p>Colores del Norte - Temporada 2022</p>
+                            <p>Villa Pehuenia - Temporada 2022</p>
 
                         </div>
 
@@ -116,9 +116,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/merlo_junio.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/merlo_agosto.png" alt="Card image cap">
 
-                            <p>Merlo - Fin de semana Junio</p>
+                            <p>Merlo - Promos Septiembre</p>
 
                         </div>
 
@@ -128,9 +128,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/san_rafael_vacaciones.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/san_rafael_agosto.png" alt="Card image cap">
 
-                            <p>San Rafael - Vacaciones Invierno 2022</p>
+                            <p>San Rafael - Feriado Noviembre 2022</p>
 
                         </div>
 

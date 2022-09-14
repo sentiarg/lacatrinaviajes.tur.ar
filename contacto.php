@@ -90,14 +90,18 @@
                             </div>
                             <div class="row">
                                 <p class="rosa-int fs-15">
-                                    Lunes a Viernes de 10 hs a 18 hs.
+                                    Lunes a Jueves de 10 hs a 18 hs.
                                 </p>
                             </div>
                         </div>
                         <div class="col-md-4 col-xs-12">
-                            <p><img style="width: 24px;" src="imagenes/iconos/correo2.png" alt=""> lacatrinaviajes@gmail.com</p>
-                            <p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> +54 9 11 5701-2140</p>
-                            <p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> +54 9 11 3409-0355</p>
+                            <p><img style="width: 24px;" src="imagenes/iconos/correo2.png" alt=""> info@lacatrinaviajes.tur.ar</p>
+                            <p>Consultas:</p><p> <img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> 
++54 9 11 5846-8890
+(Solo mensajes)</p>
+                            <p>Emergencias:</p><p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt="">
++54 9 11 5701-2140</p><p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt="">
++54 9 11 3409-0355</p>
                         </div>
                     </div>
                     <div class="row">

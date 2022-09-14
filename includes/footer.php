@@ -14,8 +14,8 @@
                         <div class="col-md-6 col-xs-12 col-sm-12 white" id="contacto">
                             <h5 class=" font-sansbold">CONTACTO</h5>
                             <p><img src="imagenes/iconos/correo.png" alt="" style="margin-right:10px!important;width: 24px; height: 24px;">info@lacatrinaviajes.tur.ar</p>
-                            <p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;" alt=""> +54 9 11 5701-2140 <br>(Solo mensajes)</p>
-                            <p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;padding-bottom:10px;" alt=""> +54 9 11 3409-0355 <br> (Solo mensajes)</p>
+                            <p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;" alt=""> Consultas <br> +54 9 11 5846-8890 <br>(Solo mensajes)</p>
+							<p><img class="icon" src="imagenes/iconos/whatsapp.png" style="width: 24px;padding-bottom:10px;" alt=""> Emergencias  <br>+54 9 11 5701-2140 <br> +54 9 11 3409-0355 </p>
                             <a style="color:white;" href="condiciones.php">
                                 <p style="margin-top:-10px;"><img class="icon" src="imagenes/iconos/condiciones2EditGrisTamaño.png" style="width:24px;padding-bottom:10px;margin-right:10px;" alt="">Condiciones generales</p>
                             </a>
