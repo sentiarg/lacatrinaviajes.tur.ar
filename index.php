@@ -21,7 +21,7 @@
                     <div class=" offset-sm-1 col-xs-12 col-sm-6 col-md-5 col-xl-3 bg-blanco">
                         <div class="row align-items-center">
                             <div class="col-sm-6 col-xl-6">
-                                <h2 class="font-sansbold text-center rosa-int ">Desde $16500</h2>
+                                <h2 class="font-sansbold text-center rosa-int ">Desde $56500</h2>
                             </div>
                             <div class=" text-center col-sm-6 col-xl-6">
                                 <h5>
@@ -85,7 +85,7 @@
                                     </h2>
                                     <h4 class="h4-responsive">
                                         <span class="rosa-int">
-                                            <strong>$16500</strong>
+                                            <strong>$56500</strong>
                                         </span>
                                     </h4>
                                     <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -113,12 +113,12 @@
                                             </div>
                                             <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                 <div class="card-body">
-                                                    Paquete 4 días / 3 noches <br>- Agosto y Septiembre 2022 <br> <br>
+                                                    Paquete 4 días / 3 noches <br>- Agosto y Septiembre 2023 <br> <br>
                                                     - Bus Semicama de Dellepiane - Flechabus <br>
                                                     - 3 Noches de Alojamiento Hotel 3 estrellas, Régimen desayuno, habitación standard <br>
                                                     - Asistencia al viajero con seguro de covid. Cortesía de La Catrina Viajes <br>
                                                     - Obsequio sorpresa para el viaje <br> <br>
-                                                    Precios por persona en base doble, sujetos a disponibilidad y confirmación al momento de la reserva. Válidos para Agosto y Septiembre 2022. No Válidos para feriados y fin de semana largos.
+                                                    Precios por persona en base doble, sujetos a disponibilidad y confirmación al momento de la reserva. No Válidos para feriados y fin de semana largos.
                                                 </div>
                                             </div>
                                         </div>
@@ -155,12 +155,14 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-6 col-md-12 font-sansbold">
-                                        <h3>$21500</h3>
+                                        <h3>$56400</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#merlomodal">
                                             <h5 class=" pd-t-5">ver más</h5>
                                         </a>
+										
+										
                                     </div>
                                 </div>
                                 <div class="modal fade" id="merlomodal" tabindex="-1" role="dialog" aria-labelledby="examspleModalLabel" aria-hidden="true">
@@ -208,9 +210,9 @@
                                                         <h2 class="h2-responsive font-sansbold carmesi">
                                                             <strong>MERLO</strong>
                                                         </h2>
-                                                        <h4 class="h4-responsive">
+                                                        <h5 class=" pd-t-5">ver más</h5>
                                                             <span class="rosa-int">
-                                                                <strong>$21500</strong>
+                                                                <strong>$56400</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -238,13 +240,13 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Precios para Septiembre 2022 <br> <br>
-                                                                        **4 días / 3 noches** <br>
-                                                                        - Bus Semicama ida y vuelta - Salida 10 y 21 de Septiembre<br>
-                                                                        - 3 noches de alojamiento en el Hotel Sol y Luna 3 estrellas con pensión completa (las bebidas se pagan en destino)<br>
+                                                                        Precios para Junio y Julio<br> <br>
+                                                                        **7 días / 5 noches** <br>
+                                                                        - Bus Semicama ida y vuelta<br>
+                                                                        - 5 noches de alojamiento en el Hotel Sol y Luna 3 estrellas con pensión completa (las bebidas se pagan en destino)<br>
                                                                         - Asistencia al viajero con seguro de covid. Cortesía de La Catrina Viajes <br>
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
-                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. Consultar por otras fechas
+                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. Consultar por otras fechas. Válidos para Marzo y Abril. No Válidos para feriados y fin de semana largos.
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -274,7 +276,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>$19500</h3>
+                                        <h3>$34000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#tandilmodal">
@@ -329,7 +331,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$19500</strong>
+                                                                <strong>$34000</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -359,7 +361,7 @@
                                                                     <div class="card-body">
                                                                         Paquete 3 días / 2 noches <br>- Agosto y Septiembre <br> <br>
                                                                         - Bus semicama desde Dellepiane - Retiro - Liniers <br>
-                                                                        - 2 noches de alojamiento en hotel 4 estrellas (Hotel céntrico con piscina climatizada) con desayuno <br>
+                                                                        - 2 noches de alojamiento en hotel 3 estrellas (Hotel céntrico) con desayuno <br>
                                                                         - Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
                                                                         Precios por persona en base doble sujeto a espacio al momento de la reserva. No Válidos para feriados y fin de semana largos.
@@ -392,7 +394,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>$36450</h3>
+                                        <h3>$82000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#grutasmodal">
@@ -447,7 +449,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$36450</strong>
+                                                                <strong>$82000</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -475,11 +477,12 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        7 días / 4 noches <br>
-                                                                        Salidas de Agosto y Septiembre <br> <br>
+                                                                        8 días / 5 noches <br>
+                                                                        Salidas Agosto y Septiembre 2023 <br> <br>
                                                                         Incluye <br>
-                                                                        - 4 noches de Alojamiento Hotel 3 estrellas con desayuno <br>
-                                                                        - Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
+                                                                        - 5 noches de Alojamiento Hotel 2 estrellas con desayuno y cena (sin bebidas)<br>
+                                                                        - Incluye visita a Puerto San Antonio Este y Oeste + Playa Conchillas <br>
+									- Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
                                                                         - Obsequio sorpresa para utilizar en el viaje <br> <br>
                                                                         Precios por persona en base doble sujeto a espacio al momento de la reserva. No Válidos para feriados y fin de semana largos.
                                                                     </div>
@@ -515,7 +518,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>$19500</h3>
+                                        <h3>$29990</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#carlospazmodal">
@@ -576,7 +579,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$19500</strong>
+                                                                <strong>$29990</strong>
                                                             </span>
                                                         </h4>
                                                         <!--Accordion wrapper-->
@@ -609,12 +612,11 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Salida de Escapada de Agosto y Septiembre <br> <br>
+                                                                        Salida de Escapada de Abril y Mayo<br> <br>
                                                                         Incluye <br>
-                                                                        - Micro semicama con salida desde Dellepiane, Retiro o Liniers <br>
-                                                                        - 04 noches hotel 3 estrellas El Mirador con desayuno, almuerzo y cena (sin bebidas) <br>
+                                                                        - Micro semicama consultar puntos de subida <br>
+                                                                        - 03 noches hotel Palmas del Lago con desayuno y psicina <br>
                                                                         - Asistencia al viajero con seguro covid, Cortesía de la Catrina Viajes <br>
-                                                                        - Excursión a Paseo Costero y Dique San Roque <br>
                                                                         - Obsequio sorpresa para el viaje <br> <br>
                                                                         Precios por persona en base doble sujetos a espacio al momento de la reserva <br>
                                                                     </div>
@@ -646,7 +648,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>$43500</h3>
+                                        <h3>$83500</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#saltamodal">
@@ -701,7 +703,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$43500</strong>
+                                                                <strong>$83500</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -730,7 +732,7 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Salidas de Agosto y Septiembre <br>
+                                                                        Salidas Abril y Mayo<br>
                                                                         4 días / 3 noches <br> <br>
                                                                         - Vuelos con Jet Smart salida de Aeroparque c/carry on de 8 kilos de cabina <br>
                                                                         - Traslados desde y hacia el aeropuerto <br>
@@ -767,7 +769,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>U$2200</h3>
+                                        <h3>U$2700</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#disneymodal">
@@ -822,7 +824,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>U$2200</strong>
+                                                                <strong>U$2700</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -851,7 +853,7 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Disney - Temporada 2022- Super promo <br>
+                                                                        Disney - Temporada 2023- Super promo <br>
                                                                         8 días / 7 noches <br> <br>
                                                                         Incluye <br>
                                                                         - 7 días de alquiler Auto básico<br>
@@ -860,7 +862,7 @@
                                                                         - Universal 2 Park Explorer ticket promo (2 días + 2 días extras) <br>
                                                                         - Obsequio sorpresa para el viaje <br> <br>
                                                                         Precios por persona en base doble, sujetos a espacio al momento de la reserva. Consultar por otras fechas.
-                                                                        No incluye vuelos, Para viajes en Agosto y Septiembre 2022
+                                                                        No incluye vuelos, Para viajes en Septiembre y Octubre 2023
                                                                     </div>
                                                                 </div>
                                                             </div>

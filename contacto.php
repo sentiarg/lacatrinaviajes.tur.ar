@@ -92,17 +92,17 @@
                             <div class="row">
                                 <p class="rosa-int fs-15">
                                     Lunes a Jueves de 10 hs a 18 hs.
+									<br> <b>Acordar cita previamente.</b>
                                 </p>
                             </div>
                         </div>
                         <div class="col-md-4 col-xs-12">
                             <p><img style="width: 24px;" src="imagenes/iconos/correo2.png" alt=""> info@lacatrinaviajes.tur.ar</p>
-                            <p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> Consultas:</p>
-                            <p>+54 9 11 5846-8890</p>
+                            <p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> Consultas y Emergencias:</p>
+                            <p> Anabella +54 9 11 5701-2140</p>
+                            <p> Natalia +54 9 11 3409-0355</p>
                             <p>(Solo mensajes)</p>
-                            <p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> Emergencias:</p>
-                            <p>+54 9 11 5701-2140</p>
-                            <p>+54 9 11 3409-0355</p>
+              
                         </div>
                     </div>
                     <div class="row">

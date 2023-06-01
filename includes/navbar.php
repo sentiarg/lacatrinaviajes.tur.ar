@@ -2,7 +2,7 @@
 $items = [
     'HOME' => 'index.php',
     'OFERTAS' => 'ofertas.php',
-    'AEREOS' => 'aereos.php',
+    //'AEREOS' => 'aereos.php',
     'QUIENES SOMOS' => 'quienesSomos.php',
     'NUESTROS PASAJEROS' => 'nuestrosPasajeros.php',
     'ARGENTINA ONLINE' => 'buscador.php',

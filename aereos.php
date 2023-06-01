@@ -1,3 +1,4 @@
+<?php die('pagina no disponible') ?>
 <!DOCTYPE html>
 <html lang="">
 <head>

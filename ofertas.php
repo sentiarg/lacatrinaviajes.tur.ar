@@ -72,9 +72,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/Gesell_2022.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/madry_invierno.png" alt="Card image cap">
 
-                            <p>Argentina - Adelantos de temporada Verano</p>
+                            <p>Argentina - Madryn Vacaciones de Invierno </p>
 
                         </div>
 
@@ -84,9 +84,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/Salta_web.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/san_rafael_invierno.png" alt="Card image cap">
 
-                            <p>Norte Argentino - Temporada 2022</p>
+                            <p>Argentina - San Rafael en Invierno</p>
 
                         </div>
 
@@ -104,9 +104,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/Villa_pehuenia_022.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/norte_invierno.png" alt="Card image cap">
 
-                            <p>Villa Pehuenia - Temporada 2022</p>
+                            <p>Argentina - Norte Argentino 2023</p>
 
                         </div>
 
@@ -116,9 +116,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/merlo_agosto.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/san_juan_invierno.png" alt="Card image cap">
 
-                            <p>Merlo - Promos Septiembre</p>
+                            <p>Argentina - San Juan Vacaciones Invierno</p>
 
                         </div>
 
@@ -128,9 +128,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/san_rafael_agosto.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/mar_del_plata_web4.png" alt="Card image cap">
 
-                            <p>San Rafael - Feriado Noviembre 2022</p>
+                            <p>Mar del Plata - Feriado Junio 2023</p>
 
                         </div>
 
