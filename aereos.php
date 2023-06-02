@@ -12,7 +12,7 @@
     </header>
 
     <main>
-        <div class="formAereos" data-tipoMotor="aereos"></div>
+        <div class="formAereos" data-tipoMotor="aereos" style="height:600px"></div>
     </main>
 
     <footer>
