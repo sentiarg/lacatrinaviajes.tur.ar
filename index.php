@@ -48,14 +48,14 @@
                                         <div class="carousel-inner" role="listbox">
                                             <div class="carousel-item active">
                                                 <div class="cajaImg-modal">
-                                                    <img class="d-block w-100" src="imagenes/paisajes/gualeguaychu1.JPG" alt="First slide">
+                                                    <img class="d-block w-100" src="imagenes/paisajes/gualeguaychu1.jpg" alt="First slide">
                                                 </div>
                                             </div>
                                             <div class="carousel-item">
-                                                <img class="d-block w-100" src="imagenes/paisajes/gualeguaychu2.JPG" alt="Second slide">
+                                                <img class="d-block w-100" src="imagenes/paisajes/gualeguaychu2.jpg" alt="Second slide">
                                             </div>
                                             <div class="carousel-item">
-                                                <img class="d-block w-100" src="imagenes/paisajes/gualeguaychu3.JPG" alt="Third slide">
+                                                <img class="d-block w-100" src="imagenes/paisajes/gualeguaychu3.jpg" alt="Third slide">
                                             </div>
                                         </div>
                                         <a class="carousel-control-prev" href="#carousel-thumb0" role="button" data-slide="prev">
@@ -68,13 +68,13 @@
                                         </a>
                                         <ol class="carousel-indicators">
                                             <li data-target="#carousel-thumb0" data-slide-to="0" class="active">
-                                                <img src="imagenes/paisajes/gualeguaychu1.JPG" width="60">
+                                                <img src="imagenes/paisajes/gualeguaychu1.jpg" width="60">
                                             </li>
                                             <li data-target="#carousel-thumb0" data-slide-to="1">
-                                                <img src="imagenes/paisajes/gualeguaychu2.JPG" width="60">
+                                                <img src="imagenes/paisajes/gualeguaychu2.jpg" width="60">
                                             </li>
                                             <li data-target="#carousel-thumb0" data-slide-to="2">
-                                                <img src="imagenes/paisajes/gualeguaychu3.JPG" width="60">
+                                                <img src="imagenes/paisajes/gualeguaychu3.jpg" width="60">
                                             </li>
                                         </ol>
                                     </div>
@@ -179,10 +179,10 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/merlo2.JPG" alt="Second slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/merlo2.jpg" alt="Second slide">
                                                                 </div>
                                                                 <div class="carousel-item">
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/merlo3.JPG" alt="Third slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/merlo3.jpg" alt="Third slide">
                                                                 </div>
                                                             </div>
                                                             <a class="carousel-control-prev" href="#carousel-thumb1" role="button" data-slide="prev">
@@ -198,10 +198,10 @@
                                                                     <img src="imagenes/paisajes/merlo.jpg" width="60">
                                                                 </li>
                                                                 <li data-target="#carousel-thumb1" data-slide-to="1">
-                                                                    <img src="imagenes/paisajes/merlo2.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/merlo2.jpg" width="60">
                                                                 </li>
                                                                 <li data-target="#carousel-thumb1" data-slide-to="2">
-                                                                    <img src="imagenes/paisajes/merlo3.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/merlo3.jpg" width="60">
                                                                 </li>
                                                             </ol>
                                                         </div>
@@ -298,10 +298,10 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/tandil2.JPG" alt="Second slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/tandil2.jpg" alt="Second slide">
                                                                 </div>
                                                                 <div class="carousel-item">
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/tandil3.JPG" alt="Third slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/tandil3.jpg" alt="Third slide">
                                                                 </div>
                                                             </div>
                                                             <a class="carousel-control-prev" href="#carousel-thumb2" role="button" data-slide="prev">
@@ -317,10 +317,10 @@
                                                                     <img src="imagenes/paisajes/tandil.jpg" width="60">
                                                                 </li>
                                                                 <li data-target="#carousel-thumb2" data-slide-to="1">
-                                                                    <img src="imagenes/paisajes/tandil2.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/tandil2.jpg" width="60">
                                                                 </li>
                                                                 <li data-target="#carousel-thumb2" data-slide-to="2">
-                                                                    <img src="imagenes/paisajes/tandil3.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/tandil3.jpg" width="60">
                                                                 </li>
                                                             </ol>
                                                         </div>
@@ -542,10 +542,10 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/villa%20carlos%20paz2.JPG" alt="Second slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/villa%20carlos%20paz2.jpg" alt="Second slide">
                                                                 </div>
                                                                 <div class="carousel-item">
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/villa%20carlos%20paz3.JPG" alt="Third slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/villa%20carlos%20paz3.jpg" alt="Third slide">
                                                                 </div>
                                                             </div>
                                                             <!--/.Slides-->
@@ -564,10 +564,10 @@
                                                                     <img src="imagenes/paisajes/villa%20carlos%20paz.jpg" width="60">
                                                                 </li>
                                                                 <li data-target="#carousel-thumb4" data-slide-to="1">
-                                                                    <img src="imagenes/paisajes/villa%20carlos%20paz2.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/villa%20carlos%20paz2.jpg" width="60">
                                                                 </li>
                                                                 <li data-target="#carousel-thumb4" data-slide-to="2">
-                                                                    <img src="imagenes/paisajes/villa%20carlos%20paz3.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/villa%20carlos%20paz3.jpg" width="60">
                                                                 </li>
                                                             </ol>
                                                         </div>
@@ -670,10 +670,10 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="carousel-item">
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/salta2.JPG" alt="Second slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/salta2.jpg" alt="Second slide">
                                                                 </div>
                                                                 <div class="carousel-item">
-                                                                    <img class="d-block w-100" src="imagenes/paisajes/salta3.JPG" alt="Third slide">
+                                                                    <img class="d-block w-100" src="imagenes/paisajes/salta3.jpg" alt="Third slide">
                                                                 </div>
                                                             </div>
                                                             <a class="carousel-control-prev" href="#carousel-thumb5" role="button" data-slide="prev">
@@ -692,7 +692,7 @@
                                                                     <img src="imagenes/paisajes/salta2.jpg" width="60">
                                                                 </li>
                                                                 <li data-target="#carousel-thumb5" data-slide-to="2">
-                                                                    <img src="imagenes/paisajes/salta3.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/salta3.jpg" width="60">
                                                                 </li>
                                                             </ol>
                                                         </div>
@@ -807,13 +807,13 @@
                                                             </a>
                                                             <ol class="carousel-indicators">
                                                                 <li data-target="#carousel-thumb6" data-slide-to="0" class="active">
-                                                                    <img src="imagenes/paisajes/disney4.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/disney4.jpg" width="60">
                                                                 </li>
                                                                 <li data-target="#carousel-thumb6" data-slide-to="1">
-                                                                    <img src="imagenes/paisajes/disney3.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/disney3.jpg" width="60">
                                                                 </li>
                                                                 <li data-target="#carousel-thumb6" data-slide-to="2">
-                                                                    <img src="imagenes/paisajes/disney2.JPG" width="60">
+                                                                    <img src="imagenes/paisajes/disney2.jpg" width="60">
                                                                 </li>
                                                             </ol>
                                                         </div>
