@@ -21,7 +21,7 @@
                     <div class=" offset-sm-1 col-xs-12 col-sm-6 col-md-5 col-xl-3 bg-blanco">
                         <div class="row align-items-center">
                             <div class="col-sm-6 col-xl-6">
-                                <h2 class="font-sansbold text-center rosa-int ">Desde $56500</h2>
+                                <h2 class="font-sansbold text-center rosa-int ">Desde $66.500</h2>
                             </div>
                             <div class=" text-center col-sm-6 col-xl-6">
                                 <h5>
@@ -85,7 +85,7 @@
                                     </h2>
                                     <h4 class="h4-responsive">
                                         <span class="rosa-int">
-                                            <strong>$56500</strong>
+                                            <strong>$66.500</strong>
                                         </span>
                                     </h4>
                                     <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -113,13 +113,14 @@
                                             </div>
                                             <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                 <div class="card-body">
-                                                    Paquete 4 días / 3 noches <br>- Agosto y Septiembre 2023 <br> <br>
+                                                    Paquete 4 días / 3 noches <br>- Noviembre y DIciembre 2023 <br> <br>
                                                     - Bus Semicama de Dellepiane - Flechabus <br>
                                                     - 3 Noches de Alojamiento Hotel 3 estrellas, Régimen desayuno, habitación standard <br>
                                                     - Asistencia al viajero con seguro de covid. Cortesía de La Catrina Viajes <br>
                                                     - Obsequio sorpresa para el viaje <br> <br>
-                                                    Precios por persona en base doble, sujetos a disponibilidad y confirmación al momento de la reserva. No Válidos para feriados y fin de semana largos.
-                                                </div>
+						    Precios por persona en base doble, sujetos a disponibilidad y confirmación al momento de la reserva. No Válidos para feriados y fin de semana largos.<br> <br>
+                                                    Operador responsable La Catrina Viajes EVT Leg.17455<br>
+						</div>
                                             </div>
                                         </div>
                                     </div>
@@ -154,8 +155,8 @@
                         <div class="card-footer">
                             <div class="container">
                                 <div class="row  text-center rosa-int">
-                                    <div class="col-xl-6 col-md-12 font-sansbold">
-                                        <h3>$56400</h3>
+                                    <div class="col-xl-7 col-md-12 font-sansbold">
+                                        <h3>$65.000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#merlomodal">
@@ -212,7 +213,7 @@
                                                         </h2>
                                                         <h5 class=" pd-t-5">ver más</h5>
                                                             <span class="rosa-int">
-                                                                <strong>$56400</strong>
+                                                                <strong>$65.000</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -240,14 +241,15 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Precios para Junio y Julio<br> <br>
-                                                                        **7 días / 5 noches** <br>
-                                                                        - Bus Semicama ida y vuelta<br>
-                                                                        - 5 noches de alojamiento en el Hotel Sol y Luna 3 estrellas con pensión completa (las bebidas se pagan en destino)<br>
+                                                                        Precios para la salida del 28 de Noviembre<br> <br>
+                                                                        **6 días / 4 noches** <br>
+                                                                        - Bus Semicama ida y vuelta <br>
+                                                                        - 4 noches de alojamiento en el Hotel Clima 3 con pensión completa (las bebidas se pagan en destino)<br>
                                                                         - Asistencia al viajero con seguro de covid. Cortesía de La Catrina Viajes <br>
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
-                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. Consultar por otras fechas. Válidos para Marzo y Abril. No Válidos para feriados y fin de semana largos.
-                                                                    </div>
+                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. Consultar por otras fechas y coche cama.<br> <br>
+                                                                        Operador responsable La Catrina Viajes EVT Leg.17455<br>
+								   </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -275,8 +277,8 @@
                         <div class="card-footer">
                             <div class="container">
                                 <div class="row  text-center rosa-int">
-                                    <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>$34000</h3>
+                                    <div class="col-xl-7 col-md-12  font-sansbold">
+                                        <h3>$44.000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#tandilmodal">
@@ -331,7 +333,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$34000</strong>
+                                                                <strong>$44.000</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -359,13 +361,15 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Paquete 3 días / 2 noches <br>- Agosto y Septiembre <br> <br>
-                                                                        - Bus semicama desde Dellepiane - Retiro - Liniers <br>
-                                                                        - 2 noches de alojamiento en hotel 3 estrellas (Hotel céntrico) con desayuno <br>
+                                                                        Paquete 3 días / 2 noches <br>- Noviembre <br> <br>
+                                                                        - Bus semicama - Consultar puntos ascenso <br>
+                                                                        - 2 noches de alojamiento en hotel sencillo con desayuno y cena (sin bebidas)<br>
                                                                         - Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
+									- Coordinador permanente <br>
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
-                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. No Válidos para feriados y fin de semana largos.
-                                                                    </div>
+                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. No Válidos para feriados y fin de semana largos.<br> <br>
+                                                                        Operador responsable La Catrina Viajes EVT Leg.17455<br>
+								    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -393,8 +397,8 @@
                         <div class="card-footer">
                             <div class="container">
                                 <div class="row  text-center rosa-int">
-                                    <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>$82000</h3>
+                                    <div class="col-xl-7 col-md-12  font-sansbold">
+                                        <h3>$89.000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#grutasmodal">
@@ -449,7 +453,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$82000</strong>
+                                                                <strong>$89.000</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -477,15 +481,17 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        8 días / 5 noches <br>
-                                                                        Salidas Agosto y Septiembre 2023 <br> <br>
+                                                                        7 días / 4 noches <br>
+                                                                        Salidas 11 al 17 de Noviembre 2023 <br> <br>
                                                                         Incluye <br>
-                                                                        - 5 noches de Alojamiento Hotel 2 estrellas con desayuno y cena (sin bebidas)<br>
-                                                                        - Incluye visita a Puerto San Antonio Este y Oeste + Playa Conchillas <br>
+									- Bus semicama con servicio abordo <br>
+                                                                        - 4 noches de Alojamiento Hotel 2 estrellas con desayuno y cena (sin bebidas)<br>
+                                                                        - Coordinador permanente<br>
 									- Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
                                                                         - Obsequio sorpresa para utilizar en el viaje <br> <br>
-                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. No Válidos para feriados y fin de semana largos.
-                                                                    </div>
+                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. Consultar adicional bus Cama.<br> <br> 
+                                                                        Operador responsable La Catrina Viajes EVT Leg.17455<br>
+								    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -517,8 +523,8 @@
                         <div class="card-footer">
                             <div class="container">
                                 <div class="row  text-center rosa-int">
-                                    <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>$29990</h3>
+                                    <div class="col-xl-7 col-md-12  font-sansbold">
+                                        <h3>$63.000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#carlospazmodal">
@@ -579,7 +585,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$29990</strong>
+                                                                <strong>$63.000</strong>
                                                             </span>
                                                         </h4>
                                                         <!--Accordion wrapper-->
@@ -612,13 +618,16 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Salida de Escapada de Abril y Mayo<br> <br>
-                                                                        Incluye <br>
+                                                                        - 6 dias / 4 noches<br>
+									- Salida de Escapada de Noviembre<br> <br>
+                                                                        Incluye: <br>
                                                                         - Micro semicama consultar puntos de subida <br>
-                                                                        - 03 noches hotel Palmas del Lago con desayuno y psicina <br>
+                                                                        - 04 noches hotel El Mirador piscina <br>
                                                                         - Asistencia al viajero con seguro covid, Cortesía de la Catrina Viajes <br>
                                                                         - Obsequio sorpresa para el viaje <br> <br>
-                                                                        Precios por persona en base doble sujetos a espacio al momento de la reserva <br>
+                                                                        Precios por persona en base doble sujetos a espacio al momento de la reserva.<br> <br>
+									Operador responsable La Catrina Viajes EVT Leg.17455<br>
+
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -647,8 +656,8 @@
                         <div class="card-footer">
                             <div class="container">
                                 <div class="row  text-center rosa-int">
-                                    <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>$83500</h3>
+                                    <div class="col-xl-7 col-md-12  font-sansbold">
+                                        <h3>$110.000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#saltamodal">
@@ -703,7 +712,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$83500</strong>
+                                                                <strong>$110.000</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -732,14 +741,15 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Salidas Abril y Mayo<br>
+                                                                        Salidas Noviembre<br>
                                                                         4 días / 3 noches <br> <br>
                                                                         - Vuelos con Jet Smart salida de Aeroparque c/carry on de 8 kilos de cabina <br>
                                                                         - Traslados desde y hacia el aeropuerto <br>
-                                                                        - 3 noches de alojamiento con desayuno <br>
+                                                                        - 3 noches de alojamiento en Hotel 4 estrellas con desayuno <br>
                                                                         - Asistencia al Viajero con seguro de Covid. Cortesía de La Catrina Viajes
                                                                         - Obsequio sorpresa para el viaje. <br> <br>
-                                                                        Precios por persona en base doble sujetos a espacio al momento de la reserva. No Válidos para feriados
+                                                                        Precios por persona en base doble sujetos a espacio al momento de la reserva. No Válidos para feriados. <br> <br>
+									Operador responsable La Catrina Viajes EVT Leg.17455<br>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -768,8 +778,8 @@
                         <div class="card-footer">
                             <div class="container">
                                 <div class="row  text-center rosa-int">
-                                    <div class="col-xl-6 col-md-12  font-sansbold">
-                                        <h3>U$2700</h3>
+                                    <div class="col-xl-7 col-md-12  font-sansbold">
+                                        <h3>U$2.800</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#disneymodal">
@@ -824,7 +834,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>U$2700</strong>
+                                                                <strong>U$2.800</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -861,8 +871,10 @@
                                                                         - 04 días de Ticket básico fecha determinada a los 4 Parques Temáticos Magic Kingdom Park, Epcot, Disney Hollywood Studios <br>
                                                                         - Universal 2 Park Explorer ticket promo (2 días + 2 días extras) <br>
                                                                         - Obsequio sorpresa para el viaje <br> <br>
-                                                                        Precios por persona en base doble, sujetos a espacio al momento de la reserva. Consultar por otras fechas.
-                                                                        No incluye vuelos, Para viajes en Septiembre y Octubre 2023
+                                                                        Precios por persona en base doble, sujetos a espacio al momento de la reserva. Consultar por otras fechas. <br> <br>
+                                                                        No incluye vuelos, Para viajes entre Noviembre y Diciembre 2023. <br> <br>
+                                                    			Operador responsable La Catrina Viajes EVT Leg.17455<br>
+
                                                                     </div>
                                                                 </div>
                                                             </div>

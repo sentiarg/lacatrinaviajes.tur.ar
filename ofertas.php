@@ -72,9 +72,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/madry_invierno.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/arrecife_miniturismo.png" alt="Card image cap">
 
-                            <p>Argentina - Madryn Vacaciones de Invierno </p>
+                            <p>Miniturismo - Arrecifes Diciembre</p>
 
                         </div>
 
@@ -84,9 +84,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/san_rafael_invierno.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/merlo_diciembre.png" alt="Card image cap">
 
-                            <p>Argentina - San Rafael en Invierno</p>
+                            <p>Merlo - Salidas grupales Diciembre</p>
 
                         </div>
 
@@ -104,9 +104,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/norte_invierno.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/pehuenia_noviembre.png" alt="Card image cap">
 
-                            <p>Argentina - Norte Argentino 2023</p>
+                            <p>Argentina - Villa Pehuenia Noviembre 2023</p>
 
                         </div>
 
@@ -116,9 +116,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/san_juan_invierno.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/las_grutas_noviembre.png" alt="Card image cap">
 
-                            <p>Argentina - San Juan Vacaciones Invierno</p>
+                            <p>Playa: Las Grutas con La Catrina</p>
 
                         </div>
 
@@ -128,9 +128,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/mar_del_plata_web4.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/concordia_termas.png" alt="Card image cap">
 
-                            <p>Mar del Plata - Feriado Junio 2023</p>
+                            <p>Concordia- Escapadas Termales 2023</p>
 
                         </div>
 
