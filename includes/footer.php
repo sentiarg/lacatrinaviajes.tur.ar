@@ -30,6 +30,12 @@
                         </div>
                     </div>
 
+                    <div class="row">
+                        <div class="col white">
+                        <p style="margin-top:-10px;">Operador responsable La Catrina Viajes EVT Leg.17455</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
