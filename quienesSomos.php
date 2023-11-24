@@ -55,7 +55,7 @@
                     </p>
                     <p>
                         <strong>
-                            Te esperamos en Echeverría 2576 , para ayudarte a soñar en tu próximo destino.
+                            Te esperamos en Echeverría 2576 Local 3, para ayudarte a soñar en tu próximo destino.
                         </strong>
                     </p>
                     <p>
