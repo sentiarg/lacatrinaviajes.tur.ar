@@ -72,9 +72,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/arrecife_miniturismo.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/mar_del_plata_marzo.png" alt="Card image cap">
 
-                            <p>Miniturismo - Arrecifes Diciembre</p>
+                            <p>Verano 2024- Escapadas a La Costa</p>
 
                         </div>
 
@@ -84,9 +84,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/merlo_diciembre.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/merlo_verano.png" alt="Card image cap">
 
-                            <p>Merlo - Salidas grupales Diciembre</p>
+                            <p>Merlo - Salidas grupales Verano 2024</p>
 
                         </div>
 
@@ -104,9 +104,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/pehuenia_noviembre.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/cuesta_blanca_verano.png" alt="Card image cap">
 
-                            <p>Argentina - Villa Pehuenia Noviembre 2023</p>
+                            <p>Argentina - Cuesta Blanca Verano 2024</p>
 
                         </div>
 
@@ -116,9 +116,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/las_grutas_noviembre.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/escapada_san_clemente2.png" alt="Card image cap">
 
-                            <p>Playa: Las Grutas con La Catrina</p>
+                            <p>Playa: Escapada a San Clemente</p>
 
                         </div>
 
@@ -128,9 +128,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/concordia_termas.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/miniturismo_san_pedro.png" alt="Card image cap">
 
-                            <p>Concordia- Escapadas Termales 2023</p>
+                            <p>Miniturismo- San Pedro - Marzo 2024</p>
 
                         </div>
 

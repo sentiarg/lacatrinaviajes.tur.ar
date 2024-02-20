@@ -101,6 +101,7 @@
                             <p><img style="width: 24px;" src="imagenes/iconos/whatsapp2.png" alt=""> Consultas y Emergencias:</p>
                             <p> Anabella +54 9 11 5701-2140</p>
                             <p> Natalia +54 9 11 3409-0355</p>
+							<p> Thiago +54 9 11 2464-3997</p>
                             <p>(Solo mensajes)</p>
               
                         </div>
