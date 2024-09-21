@@ -72,9 +72,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/mar_del_plata_marzo.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/las_grutas_diciembre.png" alt="Card image cap">
 
-                            <p>Verano 2024- Escapadas a La Costa</p>
+                            <p>Las Grutas- Diciembre 2024</p>
 
                         </div>
 
@@ -84,9 +84,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/merlo_verano.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/sierra_ventana_new.png" alt="Card image cap">
 
-                            <p>Merlo - Salidas grupales Verano 2024</p>
+                            <p>Sierra de la Ventana - Noviembre 2024</p>
 
                         </div>
 
@@ -104,9 +104,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/cuesta_blanca_verano.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/termas_rio_hondo.png" alt="Card image cap">
 
-                            <p>Argentina - Cuesta Blanca Verano 2024</p>
+                            <p>Nuevo destino - Termas Rio Hondo</p>
 
                         </div>
 
@@ -116,9 +116,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/escapada_san_clemente2.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/concordia_diciembre.png" alt="Card image cap">
 
-                            <p>Playa: Escapada a San Clemente</p>
+                            <p>Termas - Escapada a Concordia Diciembre</p>
 
                         </div>
 
@@ -128,9 +128,9 @@
 
                         <div class="card2" style="width: 20rem; ">
 
-                            <img class="card-img-top" src="imagenes/ofertas/miniturismo_san_pedro.png" alt="Card image cap">
+                            <img class="card-img-top" src="imagenes/ofertas/miniturismo_san_pedro_octubre.png" alt="Card image cap">
 
-                            <p>Miniturismo- San Pedro - Marzo 2024</p>
+                            <p>Miniturismo- San Pedro - Octubre 2024</p>
 
                         </div>
 

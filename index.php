@@ -21,7 +21,7 @@
                     <div class=" offset-sm-1 col-xs-12 col-sm-6 col-md-5 col-xl-3 bg-blanco">
                         <div class="row align-items-center">
                             <div class="col-sm-6 col-xl-6">
-                                <h2 class="font-sansbold text-center rosa-int ">Desde $145.000</h2>
+                                <h2 class="font-sansbold text-center rosa-int ">Desde $185.000</h2>
                             </div>
                             <div class=" text-center col-sm-6 col-xl-6">
                                 <h5>
@@ -85,7 +85,7 @@
                                     </h2>
                                     <h4 class="h4-responsive">
                                         <span class="rosa-int">
-                                            <strong>$145.500</strong>
+                                            <strong>$185.500</strong>
                                         </span>
                                     </h4>
                                     <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -113,7 +113,7 @@
                                             </div>
                                             <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                 <div class="card-body">
-                                                    Paquete 4 días / 3 noches <br>- Enero y Febrero 2024 <br> <br>
+                                                    Paquete 4 días / 3 noches <br>- Agosto y Septiembre 2024 <br> <br>
                                                     - Bus Semicama de Dellepiane - Flechabus <br>
                                                     - 3 Noches de Alojamiento Hotel 3 estrellas, Régimen desayuno, habitación standard <br>
                                                     - Asistencia al viajero con seguro de covid. Cortesía de La Catrina Viajes <br>
@@ -156,7 +156,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-7 col-md-12 font-sansbold">
-                                        <h3>$138.000</h3>
+                                        <h3>$168.000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#merlomodal">
@@ -211,9 +211,9 @@
                                                         <h2 class="h2-responsive font-sansbold carmesi">
                                                             <strong>MERLO</strong>
                                                         </h2>
-                                                        <h5 class=" pd-t-5">ver más</h5>
+                                                        <h4 class=" pd-t-5"/h4>
                                                             <span class="rosa-int">
-                                                                <strong>$138.000</strong>
+                                                                <strong>$168.000</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -241,7 +241,7 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Precios para Febrero<br> <br>
+                                                                        Precios para Agosto y Septiembre<br> <br>
                                                                         **6 días / 4 noches** <br>
                                                                         - Bus Semicama ida y vuelta subiendo en Lanús, Dellepiane, San Justo, Morón, Moreno, Boulogne o Pacheco  <br>
                                                                         - 4 noches de alojamiento en el Hotel Sol y Luna o La Martina con media pensión (las bebidas se pagan en destino)<br>
@@ -278,7 +278,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-7 col-md-12  font-sansbold">
-                                        <h3>$240.000</h3>
+                                        <h3>$260.000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#tandilmodal">
@@ -333,7 +333,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$240.000</strong>
+                                                                <strong>$260.000</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -362,7 +362,7 @@
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
 
-                                                                        Paquete 3 días / 2 noches <br>- Enero y Febrero <br> <br>
+                                                                        Paquete 3 días / 2 noches <br>- Agosto y Septiembre <br> <br>
                                                                         - Bus semicama - Consultar puntos ascenso <br>
                                                                         - 3 noches de alojamiento en hotel sencillo con desayuno y cena (sin bebidas)<br>
                                                                         - Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
@@ -399,7 +399,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-7 col-md-12  font-sansbold">
-                                        <h3>$230.000</h3>
+                                        <h3>$250.000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#grutasmodal">
@@ -454,7 +454,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$230.000</strong>
+                                                                <strong>$250.000</strong>
                                                             </span>
                                                         </h4>
                                                         <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -482,15 +482,15 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        7 días / 5 noches <br>
-                                                                        Salida 9 de Marzo <br> <br>
+                                                                        7 días / 5 noches - Semana Santa<br>
+                                                                        Salida 27 de Marzo <br> <br>
                                                                         Incluye <br>
 									- Bus semicama con servicio abordo subiendo en Lanús, Dellepiane, San Justo, Morón, Moreno, Boulogne o Pacheco  <br>
                                                                         - 5 noches de Alojamiento con desayuno y cena (sin bebidas)<br>
                                                                         - Coordinador permanente<br>
 									- Asistencia al viajero con seguro de covid- Cortesía de La Catrina Viajes <br>
                                                                         - Obsequio sorpresa para utilizar en el viaje <br> <br>
-                                                                        Precios por persona en base triple sujeto a espacio al momento de la reserva. Consultar adicional bus Cama.<br> <br> 
+                                                                        Precios por persona en base doble sujeto a espacio al momento de la reserva. Consultar adicional bus Cama.<br> <br> 
                                                                         Operador responsable La Catrina Viajes EVT Leg.17455<br>
 								    </div>
                                                                 </div>
@@ -525,7 +525,7 @@
                             <div class="container">
                                 <div class="row  text-center rosa-int">
                                     <div class="col-xl-7 col-md-12  font-sansbold">
-                                        <h3>$190.000</h3>
+                                        <h3>$180.000</h3>
                                     </div>
                                     <div class="col-xl-6 col-md-12 font-mulibold">
                                         <a href="#" class="no-td rosa-int hover-oscurecer" data-toggle="modal" data-target="#carlospazmodal">
@@ -586,7 +586,7 @@
                                                         </h2>
                                                         <h4 class="h4-responsive">
                                                             <span class="rosa-int">
-                                                                <strong>$190.000</strong>
+                                                                <strong>$180.000</strong>
                                                             </span>
                                                         </h4>
                                                         <!--Accordion wrapper-->
@@ -620,7 +620,7 @@
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
                                                                         - 6 dias / 4 noches<br>
-									- Salida de Escapada de Marzo y Abril<br> <br>
+									- Salida de Escapada de Julio a Septiembre<br> <br>
                                                                         Incluye: <br>
                                                                         - Micro semicama consultar puntos de subida <br>
                                                                         - 04 noches hotel Los Sauces con desayuno y cena (sin bebidas)<br>
@@ -742,7 +742,7 @@
                                                                 </div>
                                                                 <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2" data-parent="#accordionEx">
                                                                     <div class="card-body">
-                                                                        Salidas Marzo y Abril
+                                                                        Salidas Agosto y Septiembre
                                                                         4 días / 3 noches <br> <br>
                                                                         - Vuelos con Jet Smart salida de Aeroparque c/carry on de 8 kilos de cabina <br>
                                                                         - Traslados desde y hacia el aeropuerto <br>
@@ -873,7 +873,7 @@
                                                                         - Universal 2 Park Explorer ticket promo (2 días + 2 días extras) <br>
                                                                         - Obsequio sorpresa para el viaje <br> <br>
                                                                         Precios por persona en base doble, sujetos a espacio al momento de la reserva. Consultar por otras fechas. <br> <br>
-                                                                        No incluye vuelos, Para viajes entre Enero y Febrero 2024. <br> <br>
+                                                                        No incluye vuelos, Para viajes entre Agosto  y Diciembre 2024. <br> <br>
                                                     			Operador responsable La Catrina Viajes EVT Leg.17455<br>
 
                                                                     </div>
